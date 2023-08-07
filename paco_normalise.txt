@@ -1,12 +1,12 @@
 from opentrons import protocol_api
 
+CONFIG_HERE
+
 metadata = {
-        'protocolName': 'NormPlatePrepPaco',
+        'protocolName': config["PROTOCOL_NAME"],
         'author': 'Kevin Murray',
         'apiLevel': '2.9',
 }
-
-CONFIG_HERE
 
 def dispense_water_to(plate, water, well_vols, pipette):
     pipette.pick_up_tip()

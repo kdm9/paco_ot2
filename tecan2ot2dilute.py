@@ -3,11 +3,20 @@ import json
 import csv
 import argparse
 import re
+from pathlib import Path
+try:
+    from tqdm.auto import tqdm
+except ImportError:
+    def tqdm(i, *args, **kwargs):
+        return i
+
+def R(decimal, place=2):
+    return round(decimal, place)
 
 def template_script(jsondat, file="paco_normalise.txt"):
     with open(file) as fh:
         script = fh.read()
-    script2 = re.sub("CONFIG_HERE", f"CONFIG={json.dumps(jsondat)}", script)
+    script2 = re.sub("CONFIG_HERE", f"config={json.dumps(jsondat)}", script)
     return script2
 
 def main(argv=None):
@@ -20,18 +29,25 @@ def main(argv=None):
             help="Smallest volume of diluent that we can transfer (uL)")
     ap.add_argument("-x", "--max-transfer-volume", default=180, type=float,
             help="Largest volume of diluent that we can transfer (uL)")
-    ap.add_argument("-s", "--protocol-script",type=argparse.FileType("w"), required=True, 
+    ap.add_argument("-n", "--name", type=str,
+            help="Name the run (makes it easier to find in the OT2 interface")
+    ap.add_argument("-s", "--protocol-script", type=Path, required=True, 
             help="OT2 Protocol script output file")
     ap.add_argument("-q", "--quantfile", type=argparse.FileType("r"), required=True,
             help="Quantification file (csv)")
+    ap.add_argument("-t", "--summary-table", type=argparse.FileType("w"), required=True,
+            help="Summary of actions table (tsv)")
     args = ap.parse_args(argv)
+
+    if args.name is None:
+        args.name = args.protocol_script.stem
 
     plate_pos = {}
     plate_i = 0
     quant = pd.read_csv(args.quantfile)
     data = {}
-    print("plate", "well", "status", "stock_conc", "diluent_vol", "final_vol", "final_conc", sep="\t")
-    for well in quant.itertuples():
+    print("plate", "well", "opentron_position", "status", "stock_conc", "diluent_vol", "final_vol", "final_conc", sep="\t", file=args.summary_table)
+    for well in tqdm(quant.itertuples()):
         if well.plate_name not in plate_pos:
             plate_i += 1
             plate_pos[well.plate_name] = plate_i
@@ -51,13 +67,17 @@ def main(argv=None):
             status = "OK"
         final_vol =args.volume + tfr_vol
         final_conc = well.conc * (args.volume/final_vol)
-        print(well.plate_name, well.well, status, well.conc, tfr_vol, final_vol, final_conc, sep="\t")
         pp = plate_pos[well.plate_name]
-        data[pp][well.well] = tfr_vol
-
-    script = template_script(data)
-    args.protocol_script.write(script)
-    args.protocol_script.close()
+        print(well.plate_name, well.well, pp, status, R(well.conc), R(tfr_vol, 1), R(final_vol), R(final_conc), sep="\t", file=args.summary_table)
+        well_no0 = re.sub(r"([A-H])0(\d)", r"\1\2", well.well)
+        data[pp][well_no0] = R(tfr_vol, 1)
+    script = template_script({
+        "PLATES": data,
+        "WELL_MAX_VOLUME": args.max_transfer_volume,
+        "PROTOCOL_NAME": args.name,
+    })
+    with args.protocol_script.open('w') as fh:
+        fh.write(script)
 
 if __name__ == "__main__":
     main()
