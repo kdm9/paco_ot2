@@ -1,8 +1,8 @@
 from opentrons import protocol_api
 
 config = {
-	"PLATES": __PLATES__,
-	"WELL_MAX_VOLUME": __WELL_MAX_VOLUME__,
+    "PLATES": __PLATES__,
+    "WELL_MAX_VOLUME": __WELL_MAX_VOLUME__,
 }
 
 metadata = {
@@ -20,10 +20,10 @@ def dispense_water_to(plate, water, well_vols, pipette):
             raise ValueError(f"ERROR! overfull well {well} on plate {plate}")
         transferred = 0
         while transferred < volume:
-	    todo = volume-transferred
-	    if todo > pipette.max_volume and todo <= pipette.max_volume*2:
-	    	vol = todo/2
-	    else:
+            todo = volume-transferred
+            if todo > pipette.max_volume and todo <= pipette.max_volume*2:
+                vol = todo/2
+            else:
                 vol = min(todo, pipette.max_volume)
             pipette.aspirate(vol, water["A1"], rate=1)
             pipette.dispense(vol, plate[well], rate=1)
@@ -50,4 +50,4 @@ def run(protocol: protocol_api.ProtocolContext):
     for plate_name, well_vols in config["PLATES"].items():
         dest_plate = protocol.load_labware('axygen_96_wellplate_200ul', pos, label=plate_name)
         dispense_water_to(dest_plate, water, well_vols, p50)
-	pos += 1
+        pos += 1

@@ -14,7 +14,7 @@ except ImportError:
 def R(decimal, place=2):
     return round(decimal, place)
 
-def template_script(jsondat, file="paco_normalise.txt"):
+def template_script(jsondat, file="paco_normalise_template.py"):
     with open(file) as fh:
         script = fh.read()
     for key, val in jsondat.items():
