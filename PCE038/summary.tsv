@@ -1,0 +1,49 @@
+plate	well	status	stock_conc	diluent_vol	final_vol	final_conc
+PCE038	A1	transfer too large	370.5	190.0	200.0	18.53
+PCE038	B1	OK	97.7	185.4	195.4	5.0
+PCE038	C1	transfer too large	541.3	190.0	200.0	27.06
+PCE038	D1	transfer too large	252.0	190.0	200.0	12.6
+PCE038	E1	transfer too large	285.7	190.0	200.0	14.29
+PCE038	F1	transfer too large	173.3	190.0	200.0	8.67
+PCE038	G1	transfer too large	230.5	190.0	200.0	11.53
+PCE038	H1	transfer too large	612.9	190.0	200.0	30.64
+PCE038	A2	transfer too large	249.1	190.0	200.0	12.46
+PCE038	B2	transfer too large	832.5	190.0	200.0	41.62
+PCE038	C2	transfer too large	822.5	190.0	200.0	41.12
+PCE038	D2	transfer too large	928.9	190.0	200.0	46.45
+PCE038	E2	transfer too large	208.4	190.0	200.0	10.42
+PCE038	F2	transfer too large	103.5	190.0	200.0	5.18
+PCE038	G2	transfer too large	112.6	190.0	200.0	5.63
+PCE038	H2	transfer too large	228.5	190.0	200.0	11.43
+PCE038	A3	transfer too large	752.8	190.0	200.0	37.64
+PCE038	B3	transfer too large	284.8	190.0	200.0	14.24
+PCE038	C3	OK	28.9	47.8	57.8	5.0
+PCE038	D3	OK	28.5	47.0	57.0	5.0
+PCE038	E3	transfer too large	424.7	190.0	200.0	21.23
+PCE038	F3	transfer too large	113.2	190.0	200.0	5.66
+PCE038	G3	transfer too large	333.2	190.0	200.0	16.66
+PCE038	H3	transfer too large	388.2	190.0	200.0	19.41
+PCE038	A4	transfer too large	343.2	190.0	200.0	17.16
+PCE038	B4	transfer too large	348.6	190.0	200.0	17.43
+PCE038	C4	transfer too large	146.4	190.0	200.0	7.32
+PCE038	D4	transfer too large	348.0	190.0	200.0	17.4
+PCE038	E4	transfer too large	224.8	190.0	200.0	11.24
+PCE038	F4	transfer too large	279.3	190.0	200.0	13.97
+PCE038	G4	OK	49.3	88.6	98.6	5.0
+PCE038	H4	transfer too large	105.0	190.0	200.0	5.25
+PCE038	A5	transfer too large	524.2	190.0	200.0	26.21
+PCE038	B5	transfer too large	607.1	190.0	200.0	30.36
+PCE038	C5	transfer too large	307.9	190.0	200.0	15.39
+PCE038	D5	transfer too large	240.2	190.0	200.0	12.01
+PCE038	E5	transfer too large	308.8	190.0	200.0	15.44
+PCE038	F5	transfer too large	247.7	190.0	200.0	12.38
+PCE038	G5	transfer too large	316.7	190.0	200.0	15.84
+PCE038	H5	transfer too large	164.7	190.0	200.0	8.23
+PCE038	A6	transfer too large	261.9	190.0	200.0	13.09
+PCE038	B6	transfer too large	254.7	190.0	200.0	12.73
+PCE038	C6	transfer too large	566.6	190.0	200.0	28.33
+PCE038	D6	transfer too large	178.2	190.0	200.0	8.91
+PCE038	E6	transfer too large	494.4	190.0	200.0	24.72
+PCE038	F6	OK	37.4	64.8	74.8	5.0
+PCE038	G6	transfer too large	104.6	190.0	200.0	5.23
+PCE038	H6	transfer too large	247.7	190.0	200.0	12.38
