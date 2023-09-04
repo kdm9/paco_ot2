@@ -29,7 +29,7 @@ def do_transfer(transfer, dst_plate, source_plates, pipette):
             vol = todo/2
         else:
             vol = min(todo, pipette.max_volume)
-        pipette.aspirate(vol, src_plate[src_well], rate=1)
+        pipette.aspirate(vol, src_plate[src_well], rate=0.4)
         pipette.dispense(vol, dst_plate[dst_well], rate=1)
         pipette.blow_out(dst_plate[dst_well])
         pipette.touch_tip(dst_plate[dst_well])
