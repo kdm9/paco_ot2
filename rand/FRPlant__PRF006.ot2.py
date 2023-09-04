@@ -1,12 +1,12 @@
 from opentrons import protocol_api
 
 config = {
-    "TRANSFERS": [{'src_plate': 'PCE046', 'src_well': 'A10', 'dst_plate': 'PRG009', 'dst_well': 'A1', 'volume': 20.0}, {'src_plate': 'PCE042', 'src_well': 'A6', 'dst_plate': 'PRG009', 'dst_well': 'B1', 'volume': 20.0}, {'src_plate': 'PCE046', 'src_well': 'H3', 'dst_plate': 'PRG009', 'dst_well': 'C1', 'volume': 20.0}, {'src_plate': 'PCE041', 'src_well': 'C7', 'dst_plate': 'PRG009', 'dst_well': 'D1', 'volume': 20.0}, {'src_plate': 'PCE045', 'src_well': 'E8', 'dst_plate': 'PRG009', 'dst_well': 'E1', 'volume': 20.0}, {'src_plate': 'PCE046', 'src_well': 'C11', 'dst_plate': 'PRG009', 'dst_well': 'F1', 'volume': 20.0}, {'src_plate': 'PCE047', 'src_well': 'C3', 'dst_plate': 'PRG009', 'dst_well': 'G1', 'volume': 20.0}, {'src_plate': 'PCE047', 'src_well': 'G4', 'dst_plate': 'PRG009', 'dst_well': 'H1', 'volume': 20.0}, {'src_plate': 'PCE045', 'src_well': 'F2', 'dst_plate': 'PRG009', 'dst_well': 'A2', 'volume': 20.0}, {'src_plate': 'PCE041', 'src_well': 'D4', 'dst_plate': 'PRG009', 'dst_well': 'B2', 'volume': 20.0}, {'src_plate': 'PCE042', 'src_well': 'D2', 'dst_plate': 'PRG009', 'dst_well': 'C2', 'volume': 20.0}, {'src_plate': 'PCE045', 'src_well': 'A2', 'dst_plate': 'PRG009', 'dst_well': 'D2', 'volume': 20.0}, {'src_plate': 'PCE045', 'src_well': 'C9', 'dst_plate': 'PRG009', 'dst_well': 'F2', 'volume': 20.0}, {'src_plate': 'PCE041', 'src_well': 'F5', 'dst_plate': 'PRG009', 'dst_well': 'G2', 'volume': 20.0}, {'src_plate': 'PCE042', 'src_well': 'G1', 'dst_plate': 'PRG009', 'dst_well': 'A3', 'volume': 20.0}, {'src_plate': 'PCE042', 'src_well': 'E1', 'dst_plate': 'PRG009', 'dst_well': 'B3', 'volume': 20.0}],
-    "DEST_PLATE_NAME": "PRG009",
+    "TRANSFERS": [{'src_plate': 'PCE046', 'src_well': 'A1', 'dst_plate': 'PRF006', 'dst_well': 'B1', 'volume': 20}, {'src_plate': 'PCE042', 'src_well': 'B7', 'dst_plate': 'PRF006', 'dst_well': 'C1', 'volume': 20}, {'src_plate': 'PCE042', 'src_well': 'B6', 'dst_plate': 'PRF006', 'dst_well': 'D1', 'volume': 20}, {'src_plate': 'PCE046', 'src_well': 'C12', 'dst_plate': 'PRF006', 'dst_well': 'G1', 'volume': 20}, {'src_plate': 'PCE041', 'src_well': 'B12', 'dst_plate': 'PRF006', 'dst_well': 'H1', 'volume': 20}, {'src_plate': 'PCE042', 'src_well': 'B1', 'dst_plate': 'PRF006', 'dst_well': 'A2', 'volume': 20}, {'src_plate': 'PCE047', 'src_well': 'A3', 'dst_plate': 'PRF006', 'dst_well': 'C2', 'volume': 20}, {'src_plate': 'PCE046', 'src_well': 'D4', 'dst_plate': 'PRF006', 'dst_well': 'D2', 'volume': 20}],
+    "DEST_PLATE_NAME": "PRF006",
 }
 
 metadata = {
-    'protocolName': "Plant__PRG009",
+    'protocolName': "FRPlant__PRF006",
     'author': 'Kevin Murray',
     'apiLevel': '2.9',
 }
