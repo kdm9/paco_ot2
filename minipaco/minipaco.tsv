@@ -1,0 +1,104 @@
+plate	well	status	stock_conc	diluent_vol	final_vol	final_conc
+PCE048	A1	conc below target	1.69	0	10.0	1.69
+PCE048	A2	conc below target	1.67	0	10.0	1.67
+PCE048	A3	conc below target	1.74	0	10.0	1.74
+PCE048	A4	OK	31.9	53.8	63.8	5.0
+PCE048	A5	conc below target	1.68	0	10.0	1.68
+PCE048	A6	conc below target	1.36	0	10.0	1.36
+PCE048	A7	conc below target	1.38	0	10.0	1.38
+PCE048	A8	conc below target	1.46	0	10.0	1.46
+PCE048	A9	conc below target	1.58	0	10.0	1.58
+PCE048	A10	conc below target	0.0	0	10.0	0.0
+PCE048	A11	conc below target	1.8	0	10.0	1.8
+PCE048	A12	conc below target	2.16	0	10.0	2.16
+PCE048	B1	conc below target	1.43	0	10.0	1.43
+PCE048	B2	OK	37.93	65.9	75.86	5.0
+PCE048	B3	conc below target	0.0	0	10.0	0.0
+PCE048	B4	conc below target	1.47	0	10.0	1.47
+PCE048	B5	conc below target	2.24	0	10.0	2.24
+PCE048	B6	conc below target	1.56	0	10.0	1.56
+PCE048	B7	conc below target	1.41	0	10.0	1.41
+PCE048	B8	conc below target	1.46	0	10.0	1.46
+PCE048	B9	OK	72.67	135.3	145.34	5.0
+PCE048	B10	conc below target	0.0	0	10.0	0.0
+PCE048	B11	conc below target	1.68	0	10.0	1.68
+PCE048	B12	conc below target	2.24	0	10.0	2.24
+PCE048	C1	conc below target	1.45	0	10.0	1.45
+PCE048	C2	conc below target	1.56	0	10.0	1.56
+PCE048	C3	conc below target	0.31	0	10.0	0.31
+PCE048	C4	conc below target	1.26	0	10.0	1.26
+PCE048	C5	conc below target	1.18	0	10.0	1.18
+PCE048	C6	conc below target	1.13	0	10.0	1.13
+PCE048	C7	conc below target	1.5	0	10.0	1.5
+PCE048	C8	conc below target	1.47	0	10.0	1.47
+PCE048	C9	conc below target	0.0	0	10.0	0.0
+PCE048	C10	OK	20.6	31.2	41.2	5.0
+PCE048	C11	conc below target	1.39	0	10.0	1.39
+PCE048	C12	conc below target	1.33	0	10.0	1.33
+PCE048	D1	OK	65.08	120.2	130.16	5.0
+PCE048	D2	conc below target	1.3	0	10.0	1.3
+PCE048	D3	conc below target	1.74	0	10.0	1.74
+PCE048	D4	OK	12.49	15.0	24.98	5.0
+PCE048	D5	conc below target	0.0	0	10.0	0.0
+PCE048	D6	conc below target	1.31	0	10.0	1.31
+PCE048	D7	conc below target	1.45	0	10.0	1.45
+PCE048	D8	conc below target	0.0	0	10.0	0.0
+PCE048	D9	OK	10.96	11.9	21.92	5.0
+PCE048	D10	OK	9.01	8.0	18.02	5.0
+PCE048	D11	conc below target	1.56	0	10.0	1.56
+PCE048	D12	conc below target	1.71	0	10.0	1.71
+PCE048	E1	conc below target	1.5	0	10.0	1.5
+PCE048	E2	conc below target	1.49	0	10.0	1.49
+PCE048	E3	conc below target	3.03	0	10.0	3.03
+PCE048	E4	OK	32.37	54.7	64.74	5.0
+PCE048	E5	conc below target	1.2	0	10.0	1.2
+PCE048	E6	conc below target	1.54	0	10.0	1.54
+PCE048	E7	conc below target	1.82	0	10.0	1.82
+PCE048	E8	conc below target	0.38	0	10.0	0.38
+PCE048	E9	conc below target	2.85	0	10.0	2.85
+PCE048	E10	conc below target	1.32	0	10.0	1.32
+PCE048	E11	conc below target	1.45	0	10.0	1.45
+PCE048	E12	conc below target	0.0	0	10.0	0.0
+PCE048	F1	conc below target	1.18	0	10.0	1.18
+PCE048	F3	conc below target	1.28	0	10.0	1.28
+PCE048	F4	conc below target	1.15	0	10.0	1.15
+PCE048	F5	conc below target	0.44	0	10.0	0.44
+PCE048	F6	conc below target	2.24	0	10.0	2.24
+PCE048	F7	conc below target	1.17	0	10.0	1.17
+PCE048	F8	OK	64.66	119.3	129.32	5.0
+PCE048	F9	OK	40.33	70.7	80.66	5.0
+PCE048	F10	OK	10.94	11.9	21.88	5.0
+PCE048	F11	conc below target	2.3	0	10.0	2.3
+PCE048	F12	conc below target	1.67	0	10.0	1.67
+PCE048	G1	conc below target	1.62	0	10.0	1.62
+PCE048	G1	conc below target	1.51	0	10.0	1.51
+PCE048	G2	conc below target	1.37	0	10.0	1.37
+PCE048	G3	conc below target	1.67	0	10.0	1.67
+PCE048	G3	conc below target	1.21	0	10.0	1.21
+PCE048	G4	OK	63.14	116.3	126.28	5.0
+PCE048	G5	conc below target	0.0	0	10.0	0.0
+PCE048	G6	conc below target	1.9	0	10.0	1.9
+PCE048	G7	OK	79.61	149.2	159.22	5.0
+PCE048	G8	conc below target	1.67	0	10.0	1.67
+PCE048	G9	OK	19.91	29.8	39.82	5.0
+PCE048	G10	conc below target	1.58	0	10.0	1.58
+PCE048	G12	conc below target	1.46	0	10.0	1.46
+PCE048	H1	conc below target	0.26	0	10.0	0.26
+PCE048	H2	OK	69.54	129.1	139.08	5.0
+PCE048	H3	OK	47.67	85.3	95.34	5.0
+PCE048	H4	conc below target	1.07	0	10.0	1.07
+PCE048	H5	conc below target	1.25	0	10.0	1.25
+PCE048	H6	OK	77.45	144.9	154.9	5.0
+PCE048	H8	OK	7.87	5.7	15.74	5.0
+PCE048	H9	conc below target	1.59	0	10.0	1.59
+PCE048	H10	OK	70.68	131.4	141.36	5.0
+PCE048	H11	OK	84.81	159.6	169.62	5.0
+PCE048	H12	conc below target	1.29	0	10.0	1.29
+PCE049	C2	conc below target	1.45	0	10.0	1.45
+PCE049	D8	OK	23.25	36.5	46.5	5.0
+PCE049	G9	OK	47.53	85.1	95.06	5.0
+PCE049	G11	OK	40.13	70.3	80.26	5.0
+PCE049	H3	OK	40.55	71.1	81.1	5.0
+PCE049	H9	OK	18.84	27.7	37.68	5.0
+PCE049	H12	OK	56.12	102.2	112.24	5.0
+PCE048	F2	conc below target	1.42	0	10.0	1.42
