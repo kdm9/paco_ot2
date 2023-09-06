@@ -1,0 +1,193 @@
+plate	well	status	stock_conc	diluent_vol	final_vol	final_conc
+PCE030	A1	conc below target	0.41	0	10.0	0.41
+PCE030	B1	conc below target	0.73	0	10.0	0.73
+PCE030	C1	conc below target	1.92	0	10.0	1.92
+PCE030	D1	conc below target	0.44	0	10.0	0.44
+PCE030	E1	conc below target	0.41	0	10.0	0.41
+PCE030	F1	conc below target	0.8	0	10.0	0.8
+PCE030	G1	conc below target	0.54	0	10.0	0.54
+PCE030	H1	conc below target	0.47	0	10.0	0.47
+PCE030	A2	conc below target	3.93	0	10.0	3.93
+PCE030	B2	conc below target	4.37	0	10.0	4.37
+PCE030	C2	conc below target	4.01	0	10.0	4.01
+PCE030	D2	conc below target	4.53	0	10.0	4.53
+PCE030	E2	conc below target	3.8	0	10.0	3.8
+PCE030	F2	conc below target	3.77	0	10.0	3.77
+PCE030	G2	conc below target	4.54	0	10.0	4.54
+PCE030	H2	conc below target	3.72	0	10.0	3.72
+PCE030	A3	conc below target	3.8	0	10.0	3.8
+PCE030	B3	conc below target	3.83	0	10.0	3.83
+PCE030	C3	conc below target	3.81	0	10.0	3.81
+PCE030	D3	conc below target	3.75	0	10.0	3.75
+PCE030	E3	conc below target	3.86	0	10.0	3.86
+PCE030	F3	conc below target	3.88	0	10.0	3.88
+PCE030	G3	conc below target	3.72	0	10.0	3.72
+PCE030	H3	conc below target	4.37	0	10.0	4.37
+PCE030	A4	conc below target	4.04	0	10.0	4.04
+PCE030	B4	conc below target	3.76	0	10.0	3.76
+PCE030	C4	conc below target	3.69	0	10.0	3.69
+PCE030	D4	conc below target	3.81	0	10.0	3.81
+PCE030	E4	conc below target	3.74	0	10.0	3.74
+PCE030	F4	conc below target	3.75	0	10.0	3.75
+PCE030	G4	conc below target	3.74	0	10.0	3.74
+PCE030	H4	conc below target	3.84	0	10.0	3.84
+PCE030	A5	conc below target	3.74	0	10.0	3.74
+PCE030	B5	transfer too small	6.65	0	10.0	6.65
+PCE030	C5	conc below target	3.73	0	10.0	3.73
+PCE030	D5	conc below target	4.13	0	10.0	4.13
+PCE030	E5	conc below target	3.77	0	10.0	3.77
+PCE030	F5	conc below target	3.77	0	10.0	3.77
+PCE030	G5	conc below target	3.93	0	10.0	3.93
+PCE030	H5	conc below target	3.7	0	10.0	3.7
+PCE030	A6	conc below target	4.45	0	10.0	4.45
+PCE030	B6	transfer too small	5.18	0	10.0	5.18
+PCE030	C6	transfer too small	5.97	0	10.0	5.97
+PCE030	D6	transfer too small	5.72	0	10.0	5.72
+PCE030	E6	conc below target	4.02	0	10.0	4.02
+PCE030	F6	conc below target	4.07	0	10.0	4.07
+PCE030	G6	conc below target	4.57	0	10.0	4.57
+PCE030	H6	conc below target	3.8	0	10.0	3.8
+PCE030	A7	conc below target	2.84	0	10.0	2.84
+PCE030	B7	conc below target	3.29	0	10.0	3.29
+PCE030	C7	conc below target	3.73	0	10.0	3.73
+PCE030	D7	conc below target	3.73	0	10.0	3.73
+PCE030	E7	conc below target	3.73	0	10.0	3.73
+PCE030	F7	conc below target	3.75	0	10.0	3.75
+PCE030	G7	conc below target	3.14	0	10.0	3.14
+PCE030	H7	conc below target	3.74	0	10.0	3.74
+PCE030	A8	conc below target	3.84	0	10.0	3.84
+PCE030	B8	conc below target	3.76	0	10.0	3.76
+PCE030	C8	conc below target	3.81	0	10.0	3.81
+PCE030	D8	conc below target	3.78	0	10.0	3.78
+PCE030	E8	conc below target	3.75	0	10.0	3.75
+PCE030	F8	conc below target	3.7	0	10.0	3.7
+PCE030	G8	conc below target	3.72	0	10.0	3.72
+PCE030	H8	conc below target	3.71	0	10.0	3.71
+PCE030	A9	conc below target	4.12	0	10.0	4.12
+PCE030	B9	conc below target	4.53	0	10.0	4.53
+PCE030	C9	conc below target	3.77	0	10.0	3.77
+PCE030	D9	conc below target	4.22	0	10.0	4.22
+PCE030	E9	transfer too small	5.69	0	10.0	5.69
+PCE030	F9	conc below target	4.2	0	10.0	4.2
+PCE030	G9	transfer too small	5.24	0	10.0	5.24
+PCE030	H9	transfer too small	6.93	0	10.0	6.93
+PCE030	A10	conc below target	3.96	0	10.0	3.96
+PCE030	B10	conc below target	4.55	0	10.0	4.55
+PCE030	C10	conc below target	4.11	0	10.0	4.11
+PCE030	D10	transfer too small	6.83	0	10.0	6.83
+PCE030	E10	conc below target	4.18	0	10.0	4.18
+PCE030	F10	conc below target	4.17	0	10.0	4.17
+PCE030	G10	conc below target	4.14	0	10.0	4.14
+PCE030	H10	conc below target	3.9	0	10.0	3.9
+PCE030	A11	OK	13.29	16.6	26.57	5.0
+PCE030	B11	transfer too small	5.59	0	10.0	5.59
+PCE030	C11	transfer too small	5.83	0	10.0	5.83
+PCE030	D11	transfer too small	5.19	0	10.0	5.19
+PCE030	E11	conc below target	4.45	0	10.0	4.45
+PCE030	F11	conc below target	4.74	0	10.0	4.74
+PCE030	G11	OK	7.95	5.9	15.9	5.0
+PCE030	H11	transfer too small	7.02	0	10.0	7.02
+PCE030	A12	conc below target	4.08	0	10.0	4.08
+PCE030	B12	conc below target	4.15	0	10.0	4.15
+PCE030	C12	conc below target	4.86	0	10.0	4.86
+PCE030	D12	conc below target	3.94	0	10.0	3.94
+PCE030	E12	transfer too small	5.45	0	10.0	5.45
+PCE030	F12	conc below target	4.81	0	10.0	4.81
+PCE030	G12	transfer too small	5.39	0	10.0	5.39
+PCE030	H12	OK	19.85	29.7	39.7	5.0
+PCE031	A1	conc below target	0.66	0	10.0	0.66
+PCE031	B1	conc below target	0.7	0	10.0	0.7
+PCE031	C1	conc below target	1.11	0	10.0	1.11
+PCE031	D1	conc below target	3.64	0	10.0	3.64
+PCE031	E1	transfer too small	5.35	0	10.0	5.35
+PCE031	F1	OK	17.35	24.7	34.69	5.0
+PCE031	G1	OK	13.15	16.3	26.31	5.0
+PCE031	H1	conc below target	1.23	0	10.0	1.23
+PCE031	A2	conc below target	1.66	0	10.0	1.66
+PCE031	B2	OK	16.96	23.9	33.93	5.0
+PCE031	C2	conc below target	1.54	0	10.0	1.54
+PCE031	D2	OK	18.36	26.7	36.71	5.0
+PCE031	E2	OK	13.34	16.7	26.68	5.0
+PCE031	F2	conc below target	1.39	0	10.0	1.39
+PCE031	G2	conc below target	1.37	0	10.0	1.37
+PCE031	H2	transfer too small	6.91	0	10.0	6.91
+PCE031	A3	conc below target	4.06	0	10.0	4.06
+PCE031	B3	OK	19.57	29.1	39.15	5.0
+PCE031	C3	OK	21.18	32.4	42.35	5.0
+PCE031	D3	transfer too large	97.41	180	190.0	5.13
+PCE031	E3	conc below target	1.91	0	10.0	1.91
+PCE031	F3	OK	22.85	35.7	45.69	5.0
+PCE031	G3	OK	11.16	12.3	22.32	5.0
+PCE031	H3	conc below target	1.76	0	10.0	1.76
+PCE031	A4	OK	21.52	33.0	43.03	5.0
+PCE031	B4	conc below target	3.36	0	10.0	3.36
+PCE031	C4	conc below target	1.46	0	10.0	1.46
+PCE031	D4	OK	9.05	8.1	18.1	5.0
+PCE031	E4	OK	62.23	114.5	124.46	5.0
+PCE031	F4	conc below target	1.53	0	10.0	1.53
+PCE031	G4	conc below target	3.53	0	10.0	3.53
+PCE031	H4	conc below target	1.49	0	10.0	1.49
+PCE031	A5	conc below target	2.17	0	10.0	2.17
+PCE031	B5	OK	17.1	24.2	34.2	5.0
+PCE031	C5	conc below target	2.73	0	10.0	2.73
+PCE031	D5	conc below target	1.88	0	10.0	1.88
+PCE031	E5	transfer too small	5.25	0	10.0	5.25
+PCE031	F5	OK	19.65	29.3	39.31	5.0
+PCE031	G5	conc below target	1.63	0	10.0	1.63
+PCE031	H5	OK	21.61	33.2	43.23	5.0
+PCE031	A6	OK	11.82	13.6	23.63	5.0
+PCE031	B6	OK	11.97	13.9	23.93	5.0
+PCE031	C6	conc below target	1.71	0	10.0	1.71
+PCE031	D6	conc below target	2.83	0	10.0	2.83
+PCE031	E6	transfer too small	6.74	0	10.0	6.74
+PCE031	F6	conc below target	1.59	0	10.0	1.59
+PCE031	G6	OK	17.5	25.0	35.0	5.0
+PCE031	H6	OK	41.59	73.2	83.19	5.0
+PCE031	A7	OK	19.61	29.2	39.23	5.0
+PCE031	B7	OK	16.43	22.9	32.86	5.0
+PCE031	C7	conc below target	2.32	0	10.0	2.32
+PCE031	D7	OK	7.58	5.2	15.15	5.0
+PCE031	E7	conc below target	2.12	0	10.0	2.12
+PCE031	F7	conc below target	1.78	0	10.0	1.78
+PCE031	G7	transfer too small	5.47	0	10.0	5.47
+PCE031	H7	conc below target	2.48	0	10.0	2.48
+PCE031	A8	conc below target	1.75	0	10.0	1.75
+PCE031	B8	conc below target	2.81	0	10.0	2.81
+PCE031	C8	conc below target	2.43	0	10.0	2.43
+PCE031	D8	conc below target	1.5	0	10.0	1.5
+PCE031	E8	conc below target	1.44	0	10.0	1.44
+PCE031	F8	conc below target	1.58	0	10.0	1.58
+PCE031	G8	OK	71.67	133.3	143.35	5.0
+PCE031	H8	conc below target	4.93	0	10.0	4.93
+PCE031	A9	conc below target	1.46	0	10.0	1.46
+PCE031	B9	conc below target	1.33	0	10.0	1.33
+PCE031	C9	conc below target	1.3	0	10.0	1.3
+PCE031	D9	conc below target	1.32	0	10.0	1.32
+PCE031	E9	conc below target	1.32	0	10.0	1.32
+PCE031	F9	conc below target	1.28	0	10.0	1.28
+PCE031	G9	conc below target	1.24	0	10.0	1.24
+PCE031	H9	conc below target	1.22	0	10.0	1.22
+PCE031	A10	conc below target	1.45	0	10.0	1.45
+PCE031	B10	conc below target	1.36	0	10.0	1.36
+PCE031	C10	conc below target	1.4	0	10.0	1.4
+PCE031	D10	conc below target	1.5	0	10.0	1.5
+PCE031	E10	conc below target	1.42	0	10.0	1.42
+PCE031	F10	conc below target	1.35	0	10.0	1.35
+PCE031	G10	conc below target	1.28	0	10.0	1.28
+PCE031	H10	conc below target	1.25	0	10.0	1.25
+PCE031	A11	conc below target	1.33	0	10.0	1.33
+PCE031	B11	conc below target	1.32	0	10.0	1.32
+PCE031	C11	conc below target	1.36	0	10.0	1.36
+PCE031	D11	conc below target	1.32	0	10.0	1.32
+PCE031	E11	conc below target	1.33	0	10.0	1.33
+PCE031	F11	conc below target	1.22	0	10.0	1.22
+PCE031	G11	conc below target	1.26	0	10.0	1.26
+PCE031	H11	conc below target	1.26	0	10.0	1.26
+PCE031	A12	conc below target	1.26	0	10.0	1.26
+PCE031	B12	conc below target	1.66	0	10.0	1.66
+PCE031	C12	conc below target	1.29	0	10.0	1.29
+PCE031	D12	conc below target	1.18	0	10.0	1.18
+PCE031	E12	conc below target	1.28	0	10.0	1.28
+PCE031	F12	conc below target	1.17	0	10.0	1.17
+PCE031	G12	conc below target	1.19	0	10.0	1.19
+PCE031	H12	conc below target	1.11	0	10.0	1.11
