@@ -19,8 +19,8 @@ def dispense_with(pipette, src, dst, volume):
             vol = todo/2
         else:
             vol = min(todo, pipette.max_volume)
-        pipette.aspirate(vol, src, , rate=1)
-        pipette.dispense(vol, plate[well], rate=1)
+        pipette.aspirate(vol, src, rate=1)
+        pipette.dispense(vol, dst, rate=1)
         transferred += vol
 
 def run(protocol: protocol_api.ProtocolContext):
