@@ -1,7 +1,7 @@
 from opentrons import protocol_api
 
 config = {
-    "PLATE_NAME": __PLATE_NAME__,
+    "PLATE_NAME": "__PLATE_NAME__",
     "VOLUMES": __VOLUMES__,
 }
 

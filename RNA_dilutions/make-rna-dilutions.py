@@ -53,6 +53,7 @@ def main(argv=None):
         script = template_script({
             "VOLUMES": data[plate],
             "PROTOCOL_NAME": name,
+            "PLATE_NAME": plate,
         })
         with open(args.protocol_script_dir / f"{name}.ot2.py", 'w') as fh:
             fh.write(script)
