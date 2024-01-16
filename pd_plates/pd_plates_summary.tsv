@@ -1,769 +1,769 @@
 plate	well	status	stock_conc	diluent_vol	final_vol	final_conc
-PD1	A1	OK	55.75	36.6	44.6	10.0
-PD1	B1	OK	19.42	7.5	15.54	10.0
-PD1	C1	OK	19.96	8.0	15.97	10.0
-PD1	D1	OK	24.96	12.0	19.97	10.0
-PD1	E1	conc below target	3.19	0	8.0	3.19
-PD1	F1	OK	60.5	40.4	48.4	10.0
-PD1	G1	OK	25.67	12.5	20.54	10.0
-PD1	H1	conc below target	2.03	0	8.0	2.03
-PD1	A2	conc below target	0.0	0	8.0	0.0
-PD1	B2	transfer too small	10.53	0	8.0	10.53
-PD1	C2	OK	59.87	39.9	47.9	10.0
-PD1	D2	conc below target	3.84	0	8.0	3.84
-PD1	E2	OK	31.28	17.0	25.02	10.0
-PD1	F2	conc below target	1.45	0	8.0	1.45
-PD1	G2	OK	62.52	42.0	50.02	10.0
-PD1	H2	transfer too small	15.17	0	8.0	15.17
-PD1	A3	conc below target	4.77	0	8.0	4.77
-PD1	B3	transfer too small	10.26	0	8.0	10.26
-PD1	C3	OK	80.85	56.7	64.68	10.0
-PD1	D3	OK	58.62	38.9	46.9	10.0
-PD1	E3	conc below target	0.87	0	8.0	0.87
-PD1	F3	OK	56.65	37.3	45.32	10.0
-PD1	G3	OK	27.18	13.7	21.74	10.0
-PD1	H3	OK	34.28	19.4	27.42	10.0
-PD1	A4	OK	30.66	16.5	24.53	10.0
-PD1	B4	OK	19.53	7.6	15.62	10.0
-PD1	C4	conc below target	0.0	0	8.0	0.0
-PD1	D4	conc below target	1.34	0	8.0	1.34
-PD1	E4	OK	21.85	9.5	17.48	10.0
-PD1	F4	OK	53.53	34.8	42.82	10.0
-PD1	G4	conc below target	0.0	0	8.0	0.0
-PD1	H4	transfer too small	13.39	0	8.0	13.39
-PD1	A5	OK	67.82	46.3	54.26	10.0
-PD1	B5	transfer too small	12.53	0	8.0	12.53
-PD1	C5	conc below target	0.06	0	8.0	0.06
-PD1	D5	OK	20.87	8.7	16.7	10.0
-PD1	E5	conc below target	2.17	0	8.0	2.17
-PD1	F5	OK	17.22	5.8	13.78	10.0
-PD1	G5	OK	66.52	45.2	53.22	10.0
-PD1	H5	conc below target	3.89	0	8.0	3.89
-PD1	A6	OK	28.86	15.1	23.09	10.0
-PD1	B6	conc below target	1.03	0	8.0	1.03
-PD1	C6	conc below target	7.5	0	8.0	7.5
-PD1	D6	conc below target	0.0	0	8.0	0.0
-PD1	E6	conc below target	0.0	0	8.0	0.0
-PD1	F6	transfer too small	15.22	0	8.0	15.22
-PD1	G6	conc below target	0.0	0	8.0	0.0
-PD1	H6	transfer too small	15.75	0	8.0	15.75
-PD1	A7	conc below target	0.0	0	8.0	0.0
-PD1	B7	conc below target	4.34	0	8.0	4.34
-PD1	C7	conc below target	0.0	0	8.0	0.0
-PD1	D7	conc below target	0.31	0	8.0	0.31
-PD1	E7	OK	66.34	45.1	53.07	10.0
-PD1	F7	OK	32.44	18.0	25.95	10.0
-PD1	G7	conc below target	0.42	0	8.0	0.42
-PD1	H7	conc below target	0.0	0	8.0	0.0
-PD1	A8	OK	25.69	12.6	20.55	10.0
-PD1	B8	OK	67.26	45.8	53.81	10.0
-PD1	C8	conc below target	0.0	0	8.0	0.0
-PD1	D8	conc below target	0.54	0	8.0	0.54
-PD1	E8	OK	42.1	25.7	33.68	10.0
-PD1	F8	conc below target	2.54	0	8.0	2.54
-PD1	G8	conc below target	0.0	0	8.0	0.0
-PD1	H8	conc below target	8.2	0	8.0	8.2
-PD1	A9	conc below target	0.0	0	8.0	0.0
-PD1	B9	conc below target	9.44	0	8.0	9.44
-PD1	C9	conc below target	0.0	0	8.0	0.0
-PD1	D9	transfer too small	13.56	0	8.0	13.56
-PD1	E9	conc below target	3.52	0	8.0	3.52
-PD1	F9	conc below target	0.52	0	8.0	0.52
-PD1	G9	conc below target	0.37	0	8.0	0.37
-PD1	H9	transfer too small	10.09	0	8.0	10.09
-PD1	A10	conc below target	0.16	0	8.0	0.16
-PD1	B10	OK	49.88	31.9	39.9	10.0
-PD1	C10	conc below target	5.83	0	8.0	5.83
-PD1	D10	OK	52.71	34.2	42.17	10.0
-PD1	E10	conc below target	6.64	0	8.0	6.64
-PD1	F10	conc below target	0.0	0	8.0	0.0
-PD1	G10	conc below target	0.0	0	8.0	0.0
-PD1	H10	OK	66.61	45.3	53.29	10.0
-PD1	A11	conc below target	0.55	0	8.0	0.55
-PD1	B11	transfer too small	15.2	0	8.0	15.2
-PD1	C11	transfer too small	11.04	0	8.0	11.04
-PD1	D11	OK	45.77	28.6	36.62	10.0
-PD1	E11	OK	71.16	48.9	56.93	10.0
-PD1	F11	conc below target	0.0	0	8.0	0.0
-PD1	G11	OK	26.54	13.2	21.23	10.0
-PD1	H11	OK	38.96	23.2	31.17	10.0
-PD1	A12	conc below target	1.18	0	8.0	1.18
-PD1	B12	conc below target	4.69	0	8.0	4.69
-PD1	C12	OK	38.93	23.1	31.14	10.0
-PD1	D12	conc below target	0.0	0	8.0	0.0
-PD1	E12	conc below target	0.0	0	8.0	0.0
-PD1	F12	OK	127.14	93.7	101.71	10.0
-PD1	G12	OK	92.56	66.0	74.05	10.0
-PD1	H12	OK	19.86	7.9	15.89	10.0
-PD2	A1	OK	32.74	18.2	26.19	10.0
-PD2	B1	OK	30.91	16.7	24.73	10.0
-PD2	C1	OK	21.84	9.5	17.47	10.0
-PD2	D1	OK	37.2	21.8	29.76	10.0
-PD2	E1	OK	21.22	9.0	16.98	10.0
-PD2	F1	transfer too small	11.0	0	8.0	11.0
-PD2	G1	conc below target	1.28	0	8.0	1.28
-PD2	H1	OK	36.57	21.3	29.26	10.0
-PD2	A2	OK	25.32	12.3	20.26	10.0
-PD2	B2	OK	71.19	49.0	56.95	10.0
-PD2	C2	OK	47.08	29.7	37.66	10.0
-PD2	D2	conc below target	4.99	0	8.0	4.99
-PD2	E2	conc below target	7.07	0	8.0	7.07
-PD2	F2	OK	20.05	8.0	16.04	10.0
-PD2	G2	conc below target	0.55	0	8.0	0.55
-PD2	H2	transfer too small	13.41	0	8.0	13.41
-PD2	A3	OK	19.89	7.9	15.91	10.0
-PD2	B3	conc below target	4.12	0	8.0	4.12
-PD2	C3	transfer too small	15.97	0	8.0	15.97
-PD2	D3	conc below target	0.0	0	8.0	0.0
-PD2	E3	conc below target	0.0	0	8.0	0.0
-PD2	F3	OK	40.97	24.8	32.78	10.0
-PD2	G3	OK	34.96	20.0	27.97	10.0
-PD2	H3	transfer too small	13.15	0	8.0	13.15
-PD2	A4	conc below target	8.19	0	8.0	8.19
-PD2	B4	OK	17.55	6.0	14.04	10.0
-PD2	C4	OK	37.33	21.9	29.86	10.0
-PD2	D4	OK	21.2	9.0	16.96	10.0
-PD2	E4	conc below target	4.11	0	8.0	4.11
-PD2	F4	conc below target	0.19	0	8.0	0.19
-PD2	G4	conc below target	3.53	0	8.0	3.53
-PD2	H4	OK	42.89	26.3	34.31	10.0
-PD2	A5	transfer too small	12.6	0	8.0	12.6
-PD2	B5	OK	18.66	6.9	14.93	10.0
-PD2	C5	conc below target	1.0	0	8.0	1.0
-PD2	D5	conc below target	0.88	0	8.0	0.88
-PD2	E5	OK	30.93	16.7	24.74	10.0
-PD2	F5	OK	75.37	52.3	60.3	10.0
-PD2	G5	conc below target	0.65	0	8.0	0.65
-PD2	H5	conc below target	4.11	0	8.0	4.11
-PD2	A6	conc below target	0.07	0	8.0	0.07
-PD2	B6	conc below target	9.2	0	8.0	9.2
-PD2	C6	OK	26.74	13.4	21.39	10.0
-PD2	D6	OK	58.51	38.8	46.81	10.0
-PD2	E6	OK	17.4	5.9	13.92	10.0
-PD2	F6	transfer too small	10.74	0	8.0	10.74
-PD2	G6	OK	29.63	15.7	23.7	10.0
-PD2	H6	OK	101.17	72.9	80.94	10.0
-PD2	A7	conc below target	0.0	0	8.0	0.0
-PD2	B7	conc below target	0.0	0	8.0	0.0
-PD2	C7	OK	70.29	48.2	56.23	10.0
-PD2	D7	OK	20.78	8.6	16.62	10.0
-PD2	E7	conc below target	2.58	0	8.0	2.58
-PD2	F7	OK	26.49	13.2	21.19	10.0
-PD2	G7	OK	32.84	18.3	26.27	10.0
-PD2	H7	OK	25.87	12.7	20.7	10.0
-PD2	A8	OK	25.66	12.5	20.53	10.0
-PD2	B8	OK	23.46	10.8	18.77	10.0
-PD2	C8	OK	41.42	25.1	33.14	10.0
-PD2	D8	conc below target	2.59	0	8.0	2.59
-PD2	E8	conc below target	5.91	0	8.0	5.91
-PD2	F8	OK	34.01	19.2	27.21	10.0
-PD2	G8	conc below target	4.25	0	8.0	4.25
-PD2	H8	OK	22.4	9.9	17.92	10.0
-PD2	A9	OK	22.98	10.4	18.38	10.0
-PD2	B9	OK	106.21	77.0	84.97	10.0
-PD2	C9	OK	18.82	7.1	15.06	10.0
-PD2	D9	conc below target	5.97	0	8.0	5.97
-PD2	E9	transfer too small	12.82	0	8.0	12.82
-PD2	F9	conc below target	2.34	0	8.0	2.34
-PD2	G9	OK	35.25	20.2	28.2	10.0
-PD2	H9	OK	101.73	73.4	81.38	10.0
-PD2	A10	OK	27.13	13.7	21.7	10.0
-PD2	B10	OK	39.71	23.8	31.77	10.0
-PD2	C10	OK	22.51	10.0	18.01	10.0
-PD2	D10	OK	17.35	5.9	13.88	10.0
-PD2	E10	OK	88.88	63.1	71.1	10.0
-PD2	F10	OK	94.78	67.8	75.82	10.0
-PD2	G10	OK	104.91	75.9	83.93	10.0
-PD2	H10	OK	36.26	21.0	29.01	10.0
-PD2	A11	OK	47.39	29.9	37.91	10.0
-PD2	B11	transfer too small	14.55	0	8.0	14.55
-PD2	C11	OK	16.68	5.3	13.34	10.0
-PD2	D11	OK	86.04	60.8	68.83	10.0
-PD2	E11	OK	18.37	6.7	14.7	10.0
-PD2	F11	OK	74.1	51.3	59.28	10.0
-PD2	G11	OK	30.02	16.0	24.02	10.0
-PD2	H11	OK	32.71	18.2	26.17	10.0
-PD2	A12	OK	17.2	5.8	13.76	10.0
-PD2	B12	transfer too small	14.89	0	8.0	14.89
-PD2	C12	OK	77.64	54.1	62.11	10.0
-PD2	D12	OK	33.82	19.1	27.06	10.0
-PD2	E12	transfer too small	12.48	0	8.0	12.48
-PD2	F12	conc below target	5.67	0	8.0	5.67
-PD2	G12	conc below target	0.08	0	8.0	0.08
-PD2	H12	conc below target	0.24	0	8.0	0.24
-PD3	A1	conc below target	0.0	0	8.0	0.0
-PD3	B1	conc below target	0.0	0	8.0	0.0
-PD3	C1	conc below target	0.0	0	8.0	0.0
-PD3	D1	OK	36.17	20.9	28.94	10.0
-PD3	E1	conc below target	7.27	0	8.0	7.27
-PD3	F1	conc below target	0.0	0	8.0	0.0
-PD3	G1	conc below target	0.0	0	8.0	0.0
-PD3	H1	conc below target	0.0	0	8.0	0.0
-PD3	A2	conc below target	0.0	0	8.0	0.0
-PD3	B2	OK	56.07	36.9	44.86	10.0
-PD3	C2	conc below target	2.16	0	8.0	2.16
-PD3	D2	conc below target	0.0	0	8.0	0.0
-PD3	E2	OK	29.12	15.3	23.3	10.0
-PD3	F2	conc below target	1.27	0	8.0	1.27
-PD3	G2	conc below target	0.0	0	8.0	0.0
-PD3	H2	conc below target	0.0	0	8.0	0.0
-PD3	A3	OK	32.22	17.8	25.78	10.0
-PD3	B3	conc below target	7.83	0	8.0	7.83
-PD3	C3	OK	20.84	8.7	16.67	10.0
-PD3	D3	conc below target	1.15	0	8.0	1.15
-PD3	E3	conc below target	1.44	0	8.0	1.44
-PD3	F3	conc below target	4.45	0	8.0	4.45
-PD3	G3	conc below target	7.92	0	8.0	7.92
-PD3	H3	conc below target	0.0	0	8.0	0.0
-PD3	A4	OK	19.57	7.7	15.66	10.0
-PD3	B4	transfer too small	15.32	0	8.0	15.32
-PD3	C4	conc below target	8.94	0	8.0	8.94
-PD3	D4	OK	29.09	15.3	23.27	10.0
-PD3	E4	transfer too small	11.45	0	8.0	11.45
-PD3	F4	OK	24.95	12.0	19.96	10.0
-PD3	G4	OK	17.14	5.7	13.71	10.0
-PD3	H4	conc below target	0.0	0	8.0	0.0
-PD3	A5	OK	61.17	40.9	48.94	10.0
-PD3	B5	OK	18.64	6.9	14.91	10.0
-PD3	C5	conc below target	0.0	0	8.0	0.0
-PD3	D5	conc below target	4.44	0	8.0	4.44
-PD3	E5	transfer too small	10.5	0	8.0	10.5
-PD3	F5	conc below target	3.19	0	8.0	3.19
-PD3	G5	conc below target	6.78	0	8.0	6.78
-PD3	H5	OK	19.49	7.6	15.59	10.0
-PD3	A6	conc below target	0.0	0	8.0	0.0
-PD3	B6	conc below target	0.31	0	8.0	0.31
-PD3	C6	OK	34.7	19.8	27.76	10.0
-PD3	D6	OK	18.76	7.0	15.01	10.0
-PD3	E6	transfer too small	15.98	0	8.0	15.98
-PD3	F6	OK	30.34	16.3	24.27	10.0
-PD3	G6	OK	27.23	13.8	21.78	10.0
-PD3	H6	OK	61.07	40.9	48.86	10.0
-PD3	A7	OK	55.85	36.7	44.68	10.0
-PD3	B7	OK	39.05	23.2	31.24	10.0
-PD3	C7	OK	19.42	7.5	15.54	10.0
-PD3	D7	conc below target	0.62	0	8.0	0.62
-PD3	E7	conc below target	1.09	0	8.0	1.09
-PD3	F7	OK	16.26	5.0	13.01	10.0
-PD3	G7	conc below target	0.0	0	8.0	0.0
-PD3	H7	conc below target	0.0	0	8.0	0.0
-PD3	A8	transfer too small	12.16	0	8.0	12.16
-PD3	B8	conc below target	0.0	0	8.0	0.0
-PD3	C8	conc below target	4.15	0	8.0	4.15
-PD3	D8	conc below target	4.1	0	8.0	4.1
-PD3	E8	OK	17.52	6.0	14.02	10.0
-PD3	F8	conc below target	0.14	0	8.0	0.14
-PD3	G8	OK	20.51	8.4	16.41	10.0
-PD3	H8	conc below target	0.36	0	8.0	0.36
-PD3	A9	conc below target	3.34	0	8.0	3.34
-PD3	B9	transfer too small	15.89	0	8.0	15.89
-PD3	C9	OK	34.74	19.8	27.79	10.0
-PD3	D9	transfer too small	13.44	0	8.0	13.44
-PD3	E9	OK	34.81	19.8	27.85	10.0
-PD3	F9	OK	30.53	16.4	24.42	10.0
-PD3	G9	OK	18.01	6.4	14.41	10.0
-PD3	H9	OK	17.99	6.4	14.39	10.0
-PD3	A10	transfer too small	15.6	0	8.0	15.6
-PD3	B10	OK	42.78	26.2	34.22	10.0
-PD3	C10	OK	16.37	5.1	13.1	10.0
-PD3	D10	conc below target	3.69	0	8.0	3.69
-PD3	E10	conc below target	0.0	0	8.0	0.0
-PD3	F10	conc below target	6.57	0	8.0	6.57
-PD3	G10	OK	101.7	73.4	81.36	10.0
-PD3	H10	OK	51.2	33.0	40.96	10.0
-PD3	A11	conc below target	0.0	0	8.0	0.0
-PD3	B11	conc below target	7.13	0	8.0	7.13
-PD3	C11	OK	27.02	13.6	21.62	10.0
-PD3	D11	conc below target	9.6	0	8.0	9.6
-PD3	E11	OK	32.42	17.9	25.94	10.0
-PD3	F11	conc below target	3.77	0	8.0	3.77
-PD3	G11	OK	38.04	22.4	30.43	10.0
-PD3	H11	OK	25.37	12.3	20.3	10.0
-PD3	A12	OK	24.67	11.7	19.74	10.0
-PD3	B12	conc below target	9.52	0	8.0	9.52
-PD3	C12	conc below target	0.0	0	8.0	0.0
-PD3	D12	conc below target	8.95	0	8.0	8.95
-PD3	E12	conc below target	2.05	0	8.0	2.05
-PD3	F12	conc below target	1.41	0	8.0	1.41
-PD3	G12	transfer too small	14.64	0	8.0	14.64
-PD3	H12	conc below target	0.0	0	8.0	0.0
-PD4	A1	transfer too small	12.05	0	8.0	12.05
-PD4	B1	conc below target	0.0	0	8.0	0.0
-PD4	C1	conc below target	2.61	0	8.0	2.61
-PD4	D1	OK	24.38	11.5	19.5	10.0
-PD4	E1	transfer too small	11.8	0	8.0	11.8
-PD4	F1	OK	67.23	45.8	53.78	10.0
-PD4	G1	OK	50.19	32.2	40.15	10.0
-PD4	H1	OK	68.54	46.8	54.83	10.0
-PD4	A2	OK	20.6	8.5	16.48	10.0
-PD4	B2	OK	45.06	28.0	36.05	10.0
-PD4	C2	transfer too small	10.19	0	8.0	10.19
-PD4	D2	OK	43.4	26.7	34.72	10.0
-PD4	E2	OK	16.41	5.1	13.13	10.0
-PD4	F2	transfer too small	11.52	0	8.0	11.52
-PD4	G2	transfer too small	12.56	0	8.0	12.56
-PD4	H2	conc below target	2.55	0	8.0	2.55
-PD4	A3	OK	45.58	28.5	36.46	10.0
-PD4	B3	OK	38.78	23.0	31.02	10.0
-PD4	C3	OK	21.15	8.9	16.92	10.0
-PD4	D3	OK	55.05	36.0	44.04	10.0
-PD4	E3	OK	35.52	20.4	28.42	10.0
-PD4	F3	conc below target	0.0	0	8.0	0.0
-PD4	G3	OK	23.71	11.0	18.97	10.0
-PD4	H3	conc below target	7.94	0	8.0	7.94
-PD4	A4	OK	51.77	33.4	41.42	10.0
-PD4	B4	OK	32.05	17.6	25.64	10.0
-PD4	C4	OK	32.03	17.6	25.62	10.0
-PD4	D4	conc below target	6.99	0	8.0	6.99
-PD4	E4	OK	32.12	17.7	25.7	10.0
-PD4	F4	OK	28.24	14.6	22.59	10.0
-PD4	G4	OK	41.76	25.4	33.41	10.0
-PD4	H4	transfer too small	13.65	0	8.0	13.65
-PD4	A5	OK	67.97	46.4	54.38	10.0
-PD4	B5	conc below target	0.0	0	8.0	0.0
-PD4	C5	OK	34.36	19.5	27.49	10.0
-PD4	D5	conc below target	9.52	0	8.0	9.52
-PD4	E5	transfer too small	11.84	0	8.0	11.84
-PD4	F5	OK	31.01	16.8	24.81	10.0
-PD4	G5	OK	79.39	55.5	63.51	10.0
-PD4	H5	OK	62.33	41.9	49.86	10.0
-PD4	A6	OK	32.99	18.4	26.39	10.0
-PD4	B6	OK	30.54	16.4	24.43	10.0
-PD4	C6	OK	34.76	19.8	27.81	10.0
-PD4	D6	conc below target	9.8	0	8.0	9.8
-PD4	E6	OK	35.83	20.7	28.66	10.0
-PD4	F6	conc below target	8.39	0	8.0	8.39
-PD4	G6	OK	35.26	20.2	28.21	10.0
-PD4	H6	conc below target	4.9	0	8.0	4.9
-PD4	A7	conc below target	0.0	0	8.0	0.0
-PD4	B7	OK	18.69	7.0	14.95	10.0
-PD4	C7	transfer too small	12.36	0	8.0	12.36
-PD4	D7	OK	42.72	26.2	34.18	10.0
-PD4	E7	OK	66.27	45.0	53.02	10.0
-PD4	F7	conc below target	0.0	0	8.0	0.0
-PD4	G7	OK	17.69	6.2	14.15	10.0
-PD4	H7	conc below target	0.84	0	8.0	0.84
-PD4	A8	OK	20.05	8.0	16.04	10.0
-PD4	B8	OK	65.93	44.7	52.74	10.0
-PD4	C8	conc below target	1.44	0	8.0	1.44
-PD4	D8	transfer too small	12.93	0	8.0	12.93
-PD4	E8	OK	49.0	31.2	39.2	10.0
-PD4	F8	OK	32.91	18.3	26.33	10.0
-PD4	G8	OK	60.84	40.7	48.67	10.0
-PD4	H8	conc below target	0.0	0	8.0	0.0
-PD4	A9	OK	48.1	30.5	38.48	10.0
-PD4	B9	conc below target	4.02	0	8.0	4.02
-PD4	C9	OK	23.16	10.5	18.53	10.0
-PD4	D9	OK	19.43	7.5	15.54	10.0
-PD4	E9	OK	20.76	8.6	16.61	10.0
-PD4	F9	OK	67.74	46.2	54.19	10.0
-PD4	G9	transfer too small	13.68	0	8.0	13.68
-PD4	H9	transfer too small	13.07	0	8.0	13.07
-PD4	A10	OK	46.84	29.5	37.47	10.0
-PD4	B10	conc below target	5.7	0	8.0	5.7
-PD4	C10	transfer too small	13.68	0	8.0	13.68
-PD4	D10	conc below target	6.33	0	8.0	6.33
-PD4	E10	conc below target	9.51	0	8.0	9.51
-PD4	F10	OK	47.39	29.9	37.91	10.0
-PD4	G10	OK	35.46	20.4	28.37	10.0
-PD4	H10	OK	26.42	13.1	21.14	10.0
-PD4	A11	conc below target	0.0	0	8.0	0.0
-PD4	B11	conc below target	0.34	0	8.0	0.34
-PD4	C11	OK	26.79	13.4	21.43	10.0
-PD4	D11	OK	47.07	29.7	37.66	10.0
-PD4	E11	OK	36.92	21.5	29.54	10.0
-PD4	F11	OK	97.47	70.0	77.98	10.0
-PD4	G11	OK	19.66	7.7	15.73	10.0
-PD4	H11	OK	63.66	42.9	50.93	10.0
-PD4	A12	conc below target	0.0	0	8.0	0.0
-PD4	B12	conc below target	5.44	0	8.0	5.44
-PD4	C12	OK	20.67	8.5	16.54	10.0
-PD4	D12	OK	37.73	22.2	30.18	10.0
-PD4	E12	transfer too small	14.83	0	8.0	14.83
-PD4	F12	OK	45.45	28.4	36.36	10.0
-PD4	G12	OK	51.13	32.9	40.9	10.0
-PD4	H12	conc below target	0.0	0	8.0	0.0
-PD5	A1	conc below target	0.0	0	8.0	0.0
-PD5	B1	transfer too small	10.12	0	8.0	10.12
-PD5	C1	conc below target	3.84	0	8.0	3.84
-PD5	D1	conc below target	0.0	0	8.0	0.0
-PD5	E1	conc below target	3.94	0	8.0	3.94
-PD5	F1	OK	20.13	8.1	16.1	10.0
-PD5	G1	conc below target	6.41	0	8.0	6.41
-PD5	H1	conc below target	5.67	0	8.0	5.67
-PD5	A2	conc below target	0.0	0	8.0	0.0
-PD5	B2	OK	23.04	10.4	18.43	10.0
-PD5	C2	conc below target	1.23	0	8.0	1.23
-PD5	D2	conc below target	0.01	0	8.0	0.01
-PD5	E2	conc below target	4.63	0	8.0	4.63
-PD5	F2	conc below target	0.92	0	8.0	0.92
-PD5	G2	conc below target	1.76	0	8.0	1.76
-PD5	H2	OK	18.66	6.9	14.93	10.0
-PD5	A3	conc below target	1.71	0	8.0	1.71
-PD5	B3	conc below target	0.0	0	8.0	0.0
-PD5	C3	conc below target	0.0	0	8.0	0.0
-PD5	D3	conc below target	0.0	0	8.0	0.0
-PD5	E3	conc below target	0.67	0	8.0	0.67
-PD5	F3	conc below target	8.16	0	8.0	8.16
-PD5	G3	transfer too small	14.47	0	8.0	14.47
-PD5	H3	conc below target	9.77	0	8.0	9.77
-PD5	A4	conc below target	8.01	0	8.0	8.01
-PD5	B4	conc below target	0.0	0	8.0	0.0
-PD5	C4	conc below target	0.09	0	8.0	0.09
-PD5	D4	conc below target	0.06	0	8.0	0.06
-PD5	E4	conc below target	5.95	0	8.0	5.95
-PD5	F4	conc below target	2.02	0	8.0	2.02
-PD5	G4	conc below target	0.82	0	8.0	0.82
-PD5	H4	conc below target	0.61	0	8.0	0.61
-PD5	A5	conc below target	0.28	0	8.0	0.28
-PD5	B5	conc below target	0.0	0	8.0	0.0
-PD5	C5	conc below target	0.0	0	8.0	0.0
-PD5	D5	conc below target	0.0	0	8.0	0.0
-PD5	E5	conc below target	6.69	0	8.0	6.69
-PD5	F5	conc below target	2.3	0	8.0	2.3
-PD5	G5	conc below target	6.78	0	8.0	6.78
-PD5	H5	OK	19.38	7.5	15.5	10.0
-PD5	A6	conc below target	0.0	0	8.0	0.0
-PD5	B6	conc below target	0.0	0	8.0	0.0
-PD5	C6	conc below target	0.0	0	8.0	0.0
-PD5	D6	conc below target	0.0	0	8.0	0.0
-PD5	E6	conc below target	4.09	0	8.0	4.09
-PD5	F6	conc below target	1.34	0	8.0	1.34
-PD5	G6	conc below target	3.52	0	8.0	3.52
-PD5	H6	transfer too small	15.49	0	8.0	15.49
-PD5	A7	conc below target	0.0	0	8.0	0.0
-PD5	B7	conc below target	0.0	0	8.0	0.0
-PD5	C7	conc below target	0.0	0	8.0	0.0
-PD5	D7	conc below target	0.0	0	8.0	0.0
-PD5	E7	conc below target	0.51	0	8.0	0.51
-PD5	F7	conc below target	0.34	0	8.0	0.34
-PD5	G7	conc below target	0.0	0	8.0	0.0
-PD5	H7	conc below target	0.0	0	8.0	0.0
-PD5	A8	conc below target	9.67	0	8.0	9.67
-PD5	B8	conc below target	0.27	0	8.0	0.27
-PD5	C8	conc below target	0.21	0	8.0	0.21
-PD5	D8	conc below target	0.0	0	8.0	0.0
-PD5	E8	conc below target	7.78	0	8.0	7.78
-PD5	F8	conc below target	2.06	0	8.0	2.06
-PD5	G8	conc below target	2.44	0	8.0	2.44
-PD5	H8	conc below target	0.0	0	8.0	0.0
-PD5	A9	conc below target	0.0	0	8.0	0.0
-PD5	B9	conc below target	0.0	0	8.0	0.0
-PD5	C9	conc below target	1.14	0	8.0	1.14
-PD5	D9	conc below target	0.81	0	8.0	0.81
-PD5	E9	conc below target	0.0	0	8.0	0.0
-PD5	F9	conc below target	0.46	0	8.0	0.46
-PD5	G9	conc below target	0.71	0	8.0	0.71
-PD5	H9	conc below target	7.48	0	8.0	7.48
-PD5	A10	conc below target	6.94	0	8.0	6.94
-PD5	B10	conc below target	0.0	0	8.0	0.0
-PD5	C10	conc below target	0.0	0	8.0	0.0
-PD5	D10	conc below target	0.0	0	8.0	0.0
-PD5	E10	OK	20.17	8.1	16.14	10.0
-PD5	F10	conc below target	2.46	0	8.0	2.46
-PD5	G10	conc below target	0.21	0	8.0	0.21
-PD5	H10	conc below target	0.0	0	8.0	0.0
-PD5	A11	conc below target	0.0	0	8.0	0.0
-PD5	B11	conc below target	0.0	0	8.0	0.0
-PD5	C11	conc below target	0.04	0	8.0	0.04
-PD5	D11	conc below target	0.0	0	8.0	0.0
-PD5	E11	conc below target	2.49	0	8.0	2.49
-PD5	F11	conc below target	0.0	0	8.0	0.0
-PD5	G11	conc below target	0.7	0	8.0	0.7
-PD5	H11	transfer too small	11.43	0	8.0	11.43
-PD5	A12	transfer too small	13.63	0	8.0	13.63
-PD5	B12	conc below target	0.0	0	8.0	0.0
-PD5	C12	conc below target	0.0	0	8.0	0.0
-PD5	D12	transfer too small	13.06	0	8.0	13.06
-PD5	E12	conc below target	4.98	0	8.0	4.98
-PD5	F12	conc below target	0.0	0	8.0	0.0
-PD5	G12	conc below target	2.34	0	8.0	2.34
-PD5	H12	OK	49.6	31.7	39.68	10.0
-PD7	A1	OK	26.56	13.2	21.25	10.0
-PD7	B1	OK	58.55	38.8	46.84	10.0
-PD7	C1	conc below target	9.77	0	8.0	9.77
-PD7	D1	OK	49.99	32.0	39.99	10.0
-PD7	E1	OK	18.08	6.5	14.46	10.0
-PD7	F1	OK	49.33	31.5	39.46	10.0
-PD7	G1	OK	71.28	49.0	57.02	10.0
-PD7	H1	OK	20.93	8.7	16.74	10.0
-PD7	A2	OK	60.14	40.1	48.11	10.0
-PD7	B2	OK	16.26	5.0	13.01	10.0
-PD7	C2	conc below target	0.1	0	8.0	0.1
-PD7	D2	conc below target	8.14	0	8.0	8.14
-PD7	E2	conc below target	6.83	0	8.0	6.83
-PD7	F2	transfer too small	15.56	0	8.0	15.56
-PD7	G2	conc below target	2.06	0	8.0	2.06
-PD7	H2	conc below target	1.93	0	8.0	1.93
-PD7	A3	transfer too small	11.33	0	8.0	11.33
-PD7	B3	conc below target	8.05	0	8.0	8.05
-PD7	C3	OK	16.34	5.1	13.07	10.0
-PD7	D3	OK	16.45	5.2	13.16	10.0
-PD7	E3	OK	50.78	32.6	40.62	10.0
-PD7	F3	OK	27.55	14.0	22.04	10.0
-PD7	G3	transfer too small	15.28	0	8.0	15.28
-PD7	H3	conc below target	0.17	0	8.0	0.17
-PD7	A4	conc below target	3.25	0	8.0	3.25
-PD7	B4	conc below target	0.0	0	8.0	0.0
-PD7	C4	conc below target	0.23	0	8.0	0.23
-PD7	D4	OK	16.74	5.4	13.39	10.0
-PD7	E4	conc below target	1.64	0	8.0	1.64
-PD7	F4	OK	29.08	15.3	23.26	10.0
-PD7	G4	OK	34.58	19.7	27.66	10.0
-PD7	H4	conc below target	0.87	0	8.0	0.87
-PD7	A5	OK	36.79	21.4	29.43	10.0
-PD7	B5	OK	56.56	37.2	45.25	10.0
-PD7	C5	conc below target	2.73	0	8.0	2.73
-PD7	D5	OK	25.18	12.1	20.14	10.0
-PD7	E5	conc below target	9.71	0	8.0	9.71
-PD7	F5	conc below target	0.92	0	8.0	0.92
-PD7	G5	transfer too small	13.52	0	8.0	13.52
-PD7	H5	conc below target	0.66	0	8.0	0.66
-PD7	A6	conc below target	8.74	0	8.0	8.74
-PD7	B6	transfer too small	15.04	0	8.0	15.04
-PD7	C6	conc below target	2.61	0	8.0	2.61
-PD7	D6	conc below target	1.12	0	8.0	1.12
-PD7	E6	conc below target	9.26	0	8.0	9.26
-PD7	F6	OK	40.64	24.5	32.51	10.0
-PD7	G6	OK	17.75	6.2	14.2	10.0
-PD7	H6	conc below target	7.45	0	8.0	7.45
-PD7	A7	OK	33.5	18.8	26.8	10.0
-PD7	B7	OK	25.57	12.5	20.46	10.0
-PD7	C7	OK	22.26	9.8	17.81	10.0
-PD7	D7	conc below target	5.47	0	8.0	5.47
-PD7	E7	conc below target	1.44	0	8.0	1.44
-PD7	F7	conc below target	9.95	0	8.0	9.95
-PD7	G7	conc below target	3.57	0	8.0	3.57
-PD7	H7	conc below target	2.49	0	8.0	2.49
-PD7	A8	conc below target	2.07	0	8.0	2.07
-PD7	B8	conc below target	3.04	0	8.0	3.04
-PD7	C8	conc below target	6.5	0	8.0	6.5
-PD7	D8	conc below target	9.54	0	8.0	9.54
-PD7	E8	conc below target	1.05	0	8.0	1.05
-PD7	F8	conc below target	9.67	0	8.0	9.67
-PD7	G8	conc below target	7.2	0	8.0	7.2
-PD7	H8	conc below target	1.43	0	8.0	1.43
-PD7	A9	conc below target	0.29	0	8.0	0.29
-PD7	B9	conc below target	4.74	0	8.0	4.74
-PD7	C9	conc below target	0.53	0	8.0	0.53
-PD7	D9	conc below target	6.46	0	8.0	6.46
-PD7	E9	conc below target	4.12	0	8.0	4.12
-PD7	F9	conc below target	0.32	0	8.0	0.32
-PD7	G9	conc below target	0.0	0	8.0	0.0
-PD7	H9	conc below target	1.26	0	8.0	1.26
-PD7	A10	conc below target	4.69	0	8.0	4.69
-PD7	B10	conc below target	0.76	0	8.0	0.76
-PD7	C10	conc below target	0.71	0	8.0	0.71
-PD7	D10	transfer too small	11.14	0	8.0	11.14
-PD7	E10	conc below target	1.08	0	8.0	1.08
-PD7	F10	conc below target	9.88	0	8.0	9.88
-PD7	G10	conc below target	0.0	0	8.0	0.0
-PD7	H10	conc below target	1.99	0	8.0	1.99
-PD7	A11	conc below target	0.57	0	8.0	0.57
-PD7	B11	conc below target	7.42	0	8.0	7.42
-PD7	C11	transfer too small	15.04	0	8.0	15.04
-PD7	D11	conc below target	2.68	0	8.0	2.68
-PD7	E11	OK	27.11	13.7	21.69	10.0
-PD7	F11	OK	41.93	25.5	33.54	10.0
-PD7	G11	conc below target	0.11	0	8.0	0.11
-PD7	H11	conc below target	1.93	0	8.0	1.93
-PD7	A12	conc below target	2.37	0	8.0	2.37
-PD7	B12	conc below target	0.23	0	8.0	0.23
-PD7	C12	OK	21.72	9.4	17.38	10.0
-PD7	D12	OK	29.29	15.4	23.43	10.0
-PD7	E12	conc below target	7.97	0	8.0	7.97
-PD7	F12	conc below target	5.49	0	8.0	5.49
-PD7	G12	conc below target	0.33	0	8.0	0.33
-PD7	H12	conc below target	2.93	0	8.0	2.93
-PD8	A1	OK	88.72	63.0	70.98	10.0
-PD8	B1	OK	35.33	20.3	28.26	10.0
-PD8	C1	OK	93.59	66.9	74.87	10.0
-PD8	D1	transfer too small	13.78	0	8.0	13.78
-PD8	E1	conc below target	0.0	0	8.0	0.0
-PD8	F1	OK	147.95	110.4	118.36	10.0
-PD8	G1	OK	83.09	58.5	66.47	10.0
-PD8	H1	OK	205.7	156.6	164.56	10.0
-PD8	A2	OK	111.3	81.0	89.04	10.0
-PD8	B2	OK	124.08	91.3	99.26	10.0
-PD8	C2	OK	63.86	43.1	51.09	10.0
-PD8	D2	OK	120.36	88.3	96.29	10.0
-PD8	E2	OK	54.8	35.8	43.84	10.0
-PD8	F2	OK	26.61	13.3	21.29	10.0
-PD8	G2	OK	87.0	61.6	69.6	10.0
-PD8	H2	OK	72.21	49.8	57.77	10.0
-PD8	A3	conc below target	0.29	0	8.0	0.29
-PD8	B3	conc below target	0.0	0	8.0	0.0
-PD8	C3	conc below target	0.32	0	8.0	0.32
-PD8	D3	conc below target	0.0	0	8.0	0.0
-PD8	E3	conc below target	0.0	0	8.0	0.0
-PD8	F3	conc below target	1.49	0	8.0	1.49
-PD8	G3	transfer too small	10.77	0	8.0	10.77
-PD8	H3	conc below target	0.26	0	8.0	0.26
-PD8	A4	conc below target	1.23	0	8.0	1.23
-PD8	B4	conc below target	8.77	0	8.0	8.77
-PD8	C4	conc below target	0.0	0	8.0	0.0
-PD8	D4	conc below target	3.63	0	8.0	3.63
-PD8	E4	conc below target	2.26	0	8.0	2.26
-PD8	F4	conc below target	1.66	0	8.0	1.66
-PD8	G4	conc below target	1.94	0	8.0	1.94
-PD8	H4	conc below target	0.0	0	8.0	0.0
-PD8	A5	conc below target	2.65	0	8.0	2.65
-PD8	B5	conc below target	0.0	0	8.0	0.0
-PD8	C5	conc below target	6.58	0	8.0	6.58
-PD8	D5	OK	69.27	47.4	55.42	10.0
-PD8	E5	conc below target	0.5	0	8.0	0.5
-PD8	F5	conc below target	3.19	0	8.0	3.19
-PD8	G5	conc below target	0.77	0	8.0	0.77
-PD8	H5	conc below target	1.7	0	8.0	1.7
-PD8	A6	conc below target	3.2	0	8.0	3.2
-PD8	B6	conc below target	6.88	0	8.0	6.88
-PD8	C6	OK	32.88	18.3	26.3	10.0
-PD8	D6	conc below target	1.46	0	8.0	1.46
-PD8	E6	conc below target	0.0	0	8.0	0.0
-PD8	F6	transfer too small	11.86	0	8.0	11.86
-PD8	G6	conc below target	2.22	0	8.0	2.22
-PD8	H6	conc below target	0.0	0	8.0	0.0
-PD8	A7	OK	51.57	33.3	41.26	10.0
-PD8	B7	OK	104.43	75.5	83.54	10.0
-PD8	C7	OK	49.76	31.8	39.81	10.0
-PD8	D7	OK	119.68	87.7	95.74	10.0
-PD8	E7	OK	107.96	78.4	86.37	10.0
-PD8	F7	OK	49.69	31.8	39.75	10.0
-PD8	G7	OK	37.4	21.9	29.92	10.0
-PD8	H7	conc below target	2.0	0	8.0	2.0
-PD8	A8	OK	52.57	34.1	42.06	10.0
-PD8	B8	OK	117.5	86.0	94.0	10.0
-PD8	C8	OK	67.86	46.3	54.29	10.0
-PD8	D8	OK	83.18	58.5	66.54	10.0
-PD8	E8	OK	82.16	57.7	65.73	10.0
-PD8	F8	OK	132.22	97.8	105.78	10.0
-PD8	G8	OK	45.57	28.5	36.46	10.0
-PD8	H8	conc below target	0.0	0	8.0	0.0
-PD8	A9	OK	106.94	77.6	85.55	10.0
-PD8	B9	OK	20.75	8.6	16.6	10.0
-PD8	C9	OK	43.84	27.1	35.07	10.0
-PD8	D9	OK	125.4	92.3	100.32	10.0
-PD8	E9	OK	79.29	55.4	63.43	10.0
-PD8	F9	OK	30.64	16.5	24.51	10.0
-PD8	G9	OK	61.31	41.0	49.05	10.0
-PD8	H9	conc below target	3.33	0	8.0	3.33
-PD8	A10	OK	41.86	25.5	33.49	10.0
-PD8	B10	OK	60.47	40.4	48.38	10.0
-PD8	C10	OK	106.07	76.9	84.86	10.0
-PD8	D10	OK	62.93	42.3	50.34	10.0
-PD8	E10	conc below target	8.22	0	8.0	8.22
-PD8	F10	OK	83.89	59.1	67.11	10.0
-PD8	G10	conc below target	0.92	0	8.0	0.92
-PD8	H10	conc below target	0.0	0	8.0	0.0
-PD8	A11	OK	100.98	72.8	80.78	10.0
-PD8	B11	conc below target	6.89	0	8.0	6.89
-PD8	C11	conc below target	1.07	0	8.0	1.07
-PD8	D11	OK	102.06	73.6	81.65	10.0
-PD8	E11	OK	89.43	63.5	71.54	10.0
-PD8	F11	conc below target	0.0	0	8.0	0.0
-PD8	G11	conc below target	0.57	0	8.0	0.57
-PD8	H11	conc below target	0.08	0	8.0	0.08
-PD8	A12	transfer too small	11.5	0	8.0	11.5
-PD8	B12	OK	175.84	132.7	140.67	10.0
-PD8	C12	conc below target	8.73	0	8.0	8.73
-PD8	D12	conc below target	3.41	0	8.0	3.41
-PD8	E12	conc below target	0.92	0	8.0	0.92
-PD8	F12	conc below target	7.39	0	8.0	7.39
-PD8	G12	conc below target	0.0	0	8.0	0.0
-PD8	H12	conc below target	9.56	0	8.0	9.56
-PD9	A1	conc below target	0.0	0	8.0	0.0
-PD9	B1	conc below target	0.0	0	8.0	0.0
-PD9	C1	OK	36.86	21.5	29.49	10.0
-PD9	D1	OK	61.64	41.3	49.31	10.0
-PD9	E1	conc below target	7.25	0	8.0	7.25
-PD9	F1	OK	62.46	42.0	49.97	10.0
-PD9	G1	conc below target	7.74	0	8.0	7.74
-PD9	H1	conc below target	0.0	0	8.0	0.0
-PD9	A2	conc below target	0.0	0	8.0	0.0
-PD9	B2	conc below target	2.0	0	8.0	2.0
-PD9	C2	conc below target	0.0	0	8.0	0.0
-PD9	D2	OK	24.57	11.7	19.66	10.0
-PD9	E2	transfer too small	13.46	0	8.0	13.46
-PD9	F2	OK	29.86	15.9	23.89	10.0
-PD9	G2	OK	21.25	9.0	17.0	10.0
-PD9	H2	OK	40.43	24.3	32.34	10.0
-PD9	A3	OK	31.09	16.9	24.87	10.0
-PD9	B3	OK	26.32	13.1	21.06	10.0
-PD9	C3	OK	18.68	6.9	14.94	10.0
-PD9	D3	OK	34.06	19.2	27.25	10.0
-PD9	E3	OK	55.75	36.6	44.6	10.0
-PD9	F3	conc below target	0.25	0	8.0	0.25
-PD9	G3	conc below target	0.0	0	8.0	0.0
-PD9	H3	OK	86.41	61.1	69.13	10.0
-PD9	A4	conc below target	0.0	0	8.0	0.0
-PD9	B4	OK	18.5	6.8	14.8	10.0
-PD9	C4	conc below target	0.35	0	8.0	0.35
-PD9	D4	conc below target	3.58	0	8.0	3.58
-PD9	E4	conc below target	2.71	0	8.0	2.71
-PD9	F4	OK	34.19	19.4	27.35	10.0
-PD9	G4	OK	41.88	25.5	33.5	10.0
-PD9	H4	OK	39.45	23.6	31.56	10.0
-PD9	A5	conc below target	3.93	0	8.0	3.93
-PD9	B5	conc below target	2.44	0	8.0	2.44
-PD9	C5	conc below target	0.0	0	8.0	0.0
-PD9	D5	OK	48.55	30.8	38.84	10.0
-PD9	E5	OK	44.95	28.0	35.96	10.0
-PD9	F5	conc below target	6.0	0	8.0	6.0
-PD9	G5	OK	27.62	14.1	22.1	10.0
-PD9	H5	conc below target	2.34	0	8.0	2.34
-PD9	A6	OK	36.1	20.9	28.88	10.0
-PD9	B6	conc below target	1.31	0	8.0	1.31
-PD9	C6	conc below target	0.0	0	8.0	0.0
-PD9	D6	conc below target	0.0	0	8.0	0.0
-PD9	E6	conc below target	2.96	0	8.0	2.96
-PD9	F6	conc below target	2.66	0	8.0	2.66
-PD9	G6	conc below target	7.53	0	8.0	7.53
-PD9	H6	conc below target	6.59	0	8.0	6.59
-PD9	A7	conc below target	0.62	0	8.0	0.62
-PD9	B7	conc below target	5.19	0	8.0	5.19
-PD9	C7	OK	29.34	15.5	23.47	10.0
-PD9	D7	conc below target	7.7	0	8.0	7.7
-PD9	E7	conc below target	0.32	0	8.0	0.32
-PD9	F7	conc below target	1.68	0	8.0	1.68
-PD9	G7	OK	30.55	16.4	24.44	10.0
-PD9	H7	conc below target	3.32	0	8.0	3.32
-PD9	A8	conc below target	2.82	0	8.0	2.82
-PD9	B8	OK	33.83	19.1	27.06	10.0
-PD9	C8	conc below target	0.0	0	8.0	0.0
-PD9	D8	conc below target	4.03	0	8.0	4.03
-PD9	E8	conc below target	0.0	0	8.0	0.0
-PD9	F8	OK	32.45	18.0	25.96	10.0
-PD9	G8	OK	16.58	5.3	13.26	10.0
-PD9	H8	OK	24.35	11.5	19.48	10.0
-PD9	A9	conc below target	0.0	0	8.0	0.0
-PD9	B9	conc below target	9.42	0	8.0	9.42
-PD9	C9	transfer too small	15.88	0	8.0	15.88
-PD9	D9	conc below target	0.0	0	8.0	0.0
-PD9	E9	conc below target	0.0	0	8.0	0.0
-PD9	F9	conc below target	1.32	0	8.0	1.32
-PD9	G9	conc below target	4.68	0	8.0	4.68
-PD9	H9	conc below target	3.7	0	8.0	3.7
-PD9	A10	conc below target	0.06	0	8.0	0.06
-PD9	B10	OK	26.2	13.0	20.96	10.0
-PD9	C10	conc below target	0.92	0	8.0	0.92
-PD9	D10	OK	41.7	25.4	33.36	10.0
-PD9	E10	conc below target	0.0	0	8.0	0.0
-PD9	F10	conc below target	1.73	0	8.0	1.73
-PD9	G10	conc below target	0.54	0	8.0	0.54
-PD9	H10	OK	27.25	13.8	21.8	10.0
-PD9	A11	conc below target	0.0	0	8.0	0.0
-PD9	B11	transfer too small	14.71	0	8.0	14.71
-PD9	C11	conc below target	0.94	0	8.0	0.94
-PD9	D11	conc below target	0.33	0	8.0	0.33
-PD9	E11	transfer too small	10.74	0	8.0	10.74
-PD9	F11	conc below target	0.0	0	8.0	0.0
-PD9	G11	conc below target	0.0	0	8.0	0.0
-PD9	H11	OK	32.19	17.8	25.75	10.0
-PD9	A12	conc below target	0.0	0	8.0	0.0
-PD9	B12	conc below target	0.0	0	8.0	0.0
-PD9	C12	conc below target	0.0	0	8.0	0.0
-PD9	D12	OK	18.43	6.7	14.74	10.0
-PD9	E12	conc below target	0.5	0	8.0	0.5
-PD9	F12	conc below target	0.0	0	8.0	0.0
-PD9	G12	conc below target	0.0	0	8.0	0.0
-PD9	H12	conc below target	2.51	0	8.0	2.51
+PD1	A1	OK	55.75	45.8	55.75	10.0
+PD1	B1	OK	19.42	9.4	19.42	10.0
+PD1	C1	OK	19.96	10.0	19.96	10.0
+PD1	D1	OK	24.96	15.0	24.96	10.0
+PD1	E1	conc below target	3.19	0	10.0	3.19
+PD1	F1	OK	60.5	50.5	60.5	10.0
+PD1	G1	OK	25.67	15.7	25.67	10.0
+PD1	H1	conc below target	2.03	0	10.0	2.03
+PD1	A2	conc below target	0.0	0	10.0	0.0
+PD1	B2	transfer too small	10.53	0	10.0	10.53
+PD1	C2	OK	59.87	49.9	59.87	10.0
+PD1	D2	conc below target	3.84	0	10.0	3.84
+PD1	E2	OK	31.28	21.3	31.28	10.0
+PD1	F2	conc below target	1.45	0	10.0	1.45
+PD1	G2	OK	62.52	52.5	62.52	10.0
+PD1	H2	OK	15.17	5.2	15.17	10.0
+PD1	A3	conc below target	4.77	0	10.0	4.77
+PD1	B3	transfer too small	10.26	0	10.0	10.26
+PD1	C3	OK	80.85	70.8	80.85	10.0
+PD1	D3	OK	58.62	48.6	58.62	10.0
+PD1	E3	conc below target	0.87	0	10.0	0.87
+PD1	F3	OK	56.65	46.6	56.65	10.0
+PD1	G3	OK	27.18	17.2	27.18	10.0
+PD1	H3	OK	34.28	24.3	34.28	10.0
+PD1	A4	OK	30.66	20.7	30.66	10.0
+PD1	B4	OK	19.53	9.5	19.53	10.0
+PD1	C4	conc below target	0.0	0	10.0	0.0
+PD1	D4	conc below target	1.34	0	10.0	1.34
+PD1	E4	OK	21.85	11.9	21.85	10.0
+PD1	F4	OK	53.53	43.5	53.53	10.0
+PD1	G4	conc below target	0.0	0	10.0	0.0
+PD1	H4	transfer too small	13.39	0	10.0	13.39
+PD1	A5	OK	67.82	57.8	67.82	10.0
+PD1	B5	transfer too small	12.53	0	10.0	12.53
+PD1	C5	conc below target	0.06	0	10.0	0.06
+PD1	D5	OK	20.87	10.9	20.87	10.0
+PD1	E5	conc below target	2.17	0	10.0	2.17
+PD1	F5	OK	17.22	7.2	17.22	10.0
+PD1	G5	OK	66.52	56.5	66.52	10.0
+PD1	H5	conc below target	3.89	0	10.0	3.89
+PD1	A6	OK	28.86	18.9	28.86	10.0
+PD1	B6	conc below target	1.03	0	10.0	1.03
+PD1	C6	conc below target	7.5	0	10.0	7.5
+PD1	D6	conc below target	0.0	0	10.0	0.0
+PD1	E6	conc below target	0.0	0	10.0	0.0
+PD1	F6	OK	15.22	5.2	15.22	10.0
+PD1	G6	conc below target	0.0	0	10.0	0.0
+PD1	H6	OK	15.75	5.8	15.75	10.0
+PD1	A7	conc below target	0.0	0	10.0	0.0
+PD1	B7	conc below target	4.34	0	10.0	4.34
+PD1	C7	conc below target	0.0	0	10.0	0.0
+PD1	D7	conc below target	0.31	0	10.0	0.31
+PD1	E7	OK	66.34	56.3	66.34	10.0
+PD1	F7	OK	32.44	22.4	32.44	10.0
+PD1	G7	conc below target	0.42	0	10.0	0.42
+PD1	H7	conc below target	0.0	0	10.0	0.0
+PD1	A8	OK	25.69	15.7	25.69	10.0
+PD1	B8	OK	67.26	57.3	67.26	10.0
+PD1	C8	conc below target	0.0	0	10.0	0.0
+PD1	D8	conc below target	0.54	0	10.0	0.54
+PD1	E8	OK	42.1	32.1	42.1	10.0
+PD1	F8	conc below target	2.54	0	10.0	2.54
+PD1	G8	conc below target	0.0	0	10.0	0.0
+PD1	H8	conc below target	8.2	0	10.0	8.2
+PD1	A9	conc below target	0.0	0	10.0	0.0
+PD1	B9	conc below target	9.44	0	10.0	9.44
+PD1	C9	conc below target	0.0	0	10.0	0.0
+PD1	D9	transfer too small	13.56	0	10.0	13.56
+PD1	E9	conc below target	3.52	0	10.0	3.52
+PD1	F9	conc below target	0.52	0	10.0	0.52
+PD1	G9	conc below target	0.37	0	10.0	0.37
+PD1	H9	transfer too small	10.09	0	10.0	10.09
+PD1	A10	conc below target	0.16	0	10.0	0.16
+PD1	B10	OK	49.88	39.9	49.88	10.0
+PD1	C10	conc below target	5.83	0	10.0	5.83
+PD1	D10	OK	52.71	42.7	52.71	10.0
+PD1	E10	conc below target	6.64	0	10.0	6.64
+PD1	F10	conc below target	0.0	0	10.0	0.0
+PD1	G10	conc below target	0.0	0	10.0	0.0
+PD1	H10	OK	66.61	56.6	66.61	10.0
+PD1	A11	conc below target	0.55	0	10.0	0.55
+PD1	B11	OK	15.2	5.2	15.2	10.0
+PD1	C11	transfer too small	11.04	0	10.0	11.04
+PD1	D11	OK	45.77	35.8	45.77	10.0
+PD1	E11	OK	71.16	61.2	71.16	10.0
+PD1	F11	conc below target	0.0	0	10.0	0.0
+PD1	G11	OK	26.54	16.5	26.54	10.0
+PD1	H11	OK	38.96	29.0	38.96	10.0
+PD1	A12	conc below target	1.18	0	10.0	1.18
+PD1	B12	conc below target	4.69	0	10.0	4.69
+PD1	C12	OK	38.93	28.9	38.93	10.0
+PD1	D12	conc below target	0.0	0	10.0	0.0
+PD1	E12	conc below target	0.0	0	10.0	0.0
+PD1	F12	OK	127.14	117.1	127.14	10.0
+PD1	G12	OK	92.56	82.6	92.56	10.0
+PD1	H12	OK	19.86	9.9	19.86	10.0
+PD2	A1	OK	32.74	22.7	32.74	10.0
+PD2	B1	OK	30.91	20.9	30.91	10.0
+PD2	C1	OK	21.84	11.8	21.84	10.0
+PD2	D1	OK	37.2	27.2	37.2	10.0
+PD2	E1	OK	21.22	11.2	21.22	10.0
+PD2	F1	transfer too small	11.0	0	10.0	11.0
+PD2	G1	conc below target	1.28	0	10.0	1.28
+PD2	H1	OK	36.57	26.6	36.57	10.0
+PD2	A2	OK	25.32	15.3	25.32	10.0
+PD2	B2	OK	71.19	61.2	71.19	10.0
+PD2	C2	OK	47.08	37.1	47.08	10.0
+PD2	D2	conc below target	4.99	0	10.0	4.99
+PD2	E2	conc below target	7.07	0	10.0	7.07
+PD2	F2	OK	20.05	10.0	20.05	10.0
+PD2	G2	conc below target	0.55	0	10.0	0.55
+PD2	H2	transfer too small	13.41	0	10.0	13.41
+PD2	A3	OK	19.89	9.9	19.89	10.0
+PD2	B3	conc below target	4.12	0	10.0	4.12
+PD2	C3	OK	15.97	6.0	15.97	10.0
+PD2	D3	conc below target	0.0	0	10.0	0.0
+PD2	E3	conc below target	0.0	0	10.0	0.0
+PD2	F3	OK	40.97	31.0	40.97	10.0
+PD2	G3	OK	34.96	25.0	34.96	10.0
+PD2	H3	transfer too small	13.15	0	10.0	13.15
+PD2	A4	conc below target	8.19	0	10.0	8.19
+PD2	B4	OK	17.55	7.6	17.55	10.0
+PD2	C4	OK	37.33	27.3	37.33	10.0
+PD2	D4	OK	21.2	11.2	21.2	10.0
+PD2	E4	conc below target	4.11	0	10.0	4.11
+PD2	F4	conc below target	0.19	0	10.0	0.19
+PD2	G4	conc below target	3.53	0	10.0	3.53
+PD2	H4	OK	42.89	32.9	42.89	10.0
+PD2	A5	transfer too small	12.6	0	10.0	12.6
+PD2	B5	OK	18.66	8.7	18.66	10.0
+PD2	C5	conc below target	1.0	0	10.0	1.0
+PD2	D5	conc below target	0.88	0	10.0	0.88
+PD2	E5	OK	30.93	20.9	30.93	10.0
+PD2	F5	OK	75.37	65.4	75.37	10.0
+PD2	G5	conc below target	0.65	0	10.0	0.65
+PD2	H5	conc below target	4.11	0	10.0	4.11
+PD2	A6	conc below target	0.07	0	10.0	0.07
+PD2	B6	conc below target	9.2	0	10.0	9.2
+PD2	C6	OK	26.74	16.7	26.74	10.0
+PD2	D6	OK	58.51	48.5	58.51	10.0
+PD2	E6	OK	17.4	7.4	17.4	10.0
+PD2	F6	transfer too small	10.74	0	10.0	10.74
+PD2	G6	OK	29.63	19.6	29.63	10.0
+PD2	H6	OK	101.17	91.2	101.17	10.0
+PD2	A7	conc below target	0.0	0	10.0	0.0
+PD2	B7	conc below target	0.0	0	10.0	0.0
+PD2	C7	OK	70.29	60.3	70.29	10.0
+PD2	D7	OK	20.78	10.8	20.78	10.0
+PD2	E7	conc below target	2.58	0	10.0	2.58
+PD2	F7	OK	26.49	16.5	26.49	10.0
+PD2	G7	OK	32.84	22.8	32.84	10.0
+PD2	H7	OK	25.87	15.9	25.87	10.0
+PD2	A8	OK	25.66	15.7	25.66	10.0
+PD2	B8	OK	23.46	13.5	23.46	10.0
+PD2	C8	OK	41.42	31.4	41.42	10.0
+PD2	D8	conc below target	2.59	0	10.0	2.59
+PD2	E8	conc below target	5.91	0	10.0	5.91
+PD2	F8	OK	34.01	24.0	34.01	10.0
+PD2	G8	conc below target	4.25	0	10.0	4.25
+PD2	H8	OK	22.4	12.4	22.4	10.0
+PD2	A9	OK	22.98	13.0	22.98	10.0
+PD2	B9	OK	106.21	96.2	106.21	10.0
+PD2	C9	OK	18.82	8.8	18.82	10.0
+PD2	D9	conc below target	5.97	0	10.0	5.97
+PD2	E9	transfer too small	12.82	0	10.0	12.82
+PD2	F9	conc below target	2.34	0	10.0	2.34
+PD2	G9	OK	35.25	25.2	35.25	10.0
+PD2	H9	OK	101.73	91.7	101.73	10.0
+PD2	A10	OK	27.13	17.1	27.13	10.0
+PD2	B10	OK	39.71	29.7	39.71	10.0
+PD2	C10	OK	22.51	12.5	22.51	10.0
+PD2	D10	OK	17.35	7.4	17.35	10.0
+PD2	E10	OK	88.88	78.9	88.88	10.0
+PD2	F10	OK	94.78	84.8	94.78	10.0
+PD2	G10	OK	104.91	94.9	104.91	10.0
+PD2	H10	OK	36.26	26.3	36.26	10.0
+PD2	A11	OK	47.39	37.4	47.39	10.0
+PD2	B11	transfer too small	14.55	0	10.0	14.55
+PD2	C11	OK	16.68	6.7	16.68	10.0
+PD2	D11	OK	86.04	76.0	86.04	10.0
+PD2	E11	OK	18.37	8.4	18.37	10.0
+PD2	F11	OK	74.1	64.1	74.1	10.0
+PD2	G11	OK	30.02	20.0	30.02	10.0
+PD2	H11	OK	32.71	22.7	32.71	10.0
+PD2	A12	OK	17.2	7.2	17.2	10.0
+PD2	B12	transfer too small	14.89	0	10.0	14.89
+PD2	C12	OK	77.64	67.6	77.64	10.0
+PD2	D12	OK	33.82	23.8	33.82	10.0
+PD2	E12	transfer too small	12.48	0	10.0	12.48
+PD2	F12	conc below target	5.67	0	10.0	5.67
+PD2	G12	conc below target	0.08	0	10.0	0.08
+PD2	H12	conc below target	0.24	0	10.0	0.24
+PD3	A1	conc below target	0.0	0	10.0	0.0
+PD3	B1	conc below target	0.0	0	10.0	0.0
+PD3	C1	conc below target	0.0	0	10.0	0.0
+PD3	D1	OK	36.17	26.2	36.17	10.0
+PD3	E1	conc below target	7.27	0	10.0	7.27
+PD3	F1	conc below target	0.0	0	10.0	0.0
+PD3	G1	conc below target	0.0	0	10.0	0.0
+PD3	H1	conc below target	0.0	0	10.0	0.0
+PD3	A2	conc below target	0.0	0	10.0	0.0
+PD3	B2	OK	56.07	46.1	56.07	10.0
+PD3	C2	conc below target	2.16	0	10.0	2.16
+PD3	D2	conc below target	0.0	0	10.0	0.0
+PD3	E2	OK	29.12	19.1	29.12	10.0
+PD3	F2	conc below target	1.27	0	10.0	1.27
+PD3	G2	conc below target	0.0	0	10.0	0.0
+PD3	H2	conc below target	0.0	0	10.0	0.0
+PD3	A3	OK	32.22	22.2	32.22	10.0
+PD3	B3	conc below target	7.83	0	10.0	7.83
+PD3	C3	OK	20.84	10.8	20.84	10.0
+PD3	D3	conc below target	1.15	0	10.0	1.15
+PD3	E3	conc below target	1.44	0	10.0	1.44
+PD3	F3	conc below target	4.45	0	10.0	4.45
+PD3	G3	conc below target	7.92	0	10.0	7.92
+PD3	H3	conc below target	0.0	0	10.0	0.0
+PD3	A4	OK	19.57	9.6	19.57	10.0
+PD3	B4	OK	15.32	5.3	15.32	10.0
+PD3	C4	conc below target	8.94	0	10.0	8.94
+PD3	D4	OK	29.09	19.1	29.09	10.0
+PD3	E4	transfer too small	11.45	0	10.0	11.45
+PD3	F4	OK	24.95	15.0	24.95	10.0
+PD3	G4	OK	17.14	7.1	17.14	10.0
+PD3	H4	conc below target	0.0	0	10.0	0.0
+PD3	A5	OK	61.17	51.2	61.17	10.0
+PD3	B5	OK	18.64	8.6	18.64	10.0
+PD3	C5	conc below target	0.0	0	10.0	0.0
+PD3	D5	conc below target	4.44	0	10.0	4.44
+PD3	E5	transfer too small	10.5	0	10.0	10.5
+PD3	F5	conc below target	3.19	0	10.0	3.19
+PD3	G5	conc below target	6.78	0	10.0	6.78
+PD3	H5	OK	19.49	9.5	19.49	10.0
+PD3	A6	conc below target	0.0	0	10.0	0.0
+PD3	B6	conc below target	0.31	0	10.0	0.31
+PD3	C6	OK	34.7	24.7	34.7	10.0
+PD3	D6	OK	18.76	8.8	18.76	10.0
+PD3	E6	OK	15.98	6.0	15.98	10.0
+PD3	F6	OK	30.34	20.3	30.34	10.0
+PD3	G6	OK	27.23	17.2	27.23	10.0
+PD3	H6	OK	61.07	51.1	61.07	10.0
+PD3	A7	OK	55.85	45.9	55.85	10.0
+PD3	B7	OK	39.05	29.0	39.05	10.0
+PD3	C7	OK	19.42	9.4	19.42	10.0
+PD3	D7	conc below target	0.62	0	10.0	0.62
+PD3	E7	conc below target	1.09	0	10.0	1.09
+PD3	F7	OK	16.26	6.3	16.26	10.0
+PD3	G7	conc below target	0.0	0	10.0	0.0
+PD3	H7	conc below target	0.0	0	10.0	0.0
+PD3	A8	transfer too small	12.16	0	10.0	12.16
+PD3	B8	conc below target	0.0	0	10.0	0.0
+PD3	C8	conc below target	4.15	0	10.0	4.15
+PD3	D8	conc below target	4.1	0	10.0	4.1
+PD3	E8	OK	17.52	7.5	17.52	10.0
+PD3	F8	conc below target	0.14	0	10.0	0.14
+PD3	G8	OK	20.51	10.5	20.51	10.0
+PD3	H8	conc below target	0.36	0	10.0	0.36
+PD3	A9	conc below target	3.34	0	10.0	3.34
+PD3	B9	OK	15.89	5.9	15.89	10.0
+PD3	C9	OK	34.74	24.7	34.74	10.0
+PD3	D9	transfer too small	13.44	0	10.0	13.44
+PD3	E9	OK	34.81	24.8	34.81	10.0
+PD3	F9	OK	30.53	20.5	30.53	10.0
+PD3	G9	OK	18.01	8.0	18.01	10.0
+PD3	H9	OK	17.99	8.0	17.99	10.0
+PD3	A10	OK	15.6	5.6	15.6	10.0
+PD3	B10	OK	42.78	32.8	42.78	10.0
+PD3	C10	OK	16.37	6.4	16.37	10.0
+PD3	D10	conc below target	3.69	0	10.0	3.69
+PD3	E10	conc below target	0.0	0	10.0	0.0
+PD3	F10	conc below target	6.57	0	10.0	6.57
+PD3	G10	OK	101.7	91.7	101.7	10.0
+PD3	H10	OK	51.2	41.2	51.2	10.0
+PD3	A11	conc below target	0.0	0	10.0	0.0
+PD3	B11	conc below target	7.13	0	10.0	7.13
+PD3	C11	OK	27.02	17.0	27.02	10.0
+PD3	D11	conc below target	9.6	0	10.0	9.6
+PD3	E11	OK	32.42	22.4	32.42	10.0
+PD3	F11	conc below target	3.77	0	10.0	3.77
+PD3	G11	OK	38.04	28.0	38.04	10.0
+PD3	H11	OK	25.37	15.4	25.37	10.0
+PD3	A12	OK	24.67	14.7	24.67	10.0
+PD3	B12	conc below target	9.52	0	10.0	9.52
+PD3	C12	conc below target	0.0	0	10.0	0.0
+PD3	D12	conc below target	8.95	0	10.0	8.95
+PD3	E12	conc below target	2.05	0	10.0	2.05
+PD3	F12	conc below target	1.41	0	10.0	1.41
+PD3	G12	transfer too small	14.64	0	10.0	14.64
+PD3	H12	conc below target	0.0	0	10.0	0.0
+PD4	A1	transfer too small	12.05	0	10.0	12.05
+PD4	B1	conc below target	0.0	0	10.0	0.0
+PD4	C1	conc below target	2.61	0	10.0	2.61
+PD4	D1	OK	24.38	14.4	24.38	10.0
+PD4	E1	transfer too small	11.8	0	10.0	11.8
+PD4	F1	OK	67.23	57.2	67.23	10.0
+PD4	G1	OK	50.19	40.2	50.19	10.0
+PD4	H1	OK	68.54	58.5	68.54	10.0
+PD4	A2	OK	20.6	10.6	20.6	10.0
+PD4	B2	OK	45.06	35.1	45.06	10.0
+PD4	C2	transfer too small	10.19	0	10.0	10.19
+PD4	D2	OK	43.4	33.4	43.4	10.0
+PD4	E2	OK	16.41	6.4	16.41	10.0
+PD4	F2	transfer too small	11.52	0	10.0	11.52
+PD4	G2	transfer too small	12.56	0	10.0	12.56
+PD4	H2	conc below target	2.55	0	10.0	2.55
+PD4	A3	OK	45.58	35.6	45.58	10.0
+PD4	B3	OK	38.78	28.8	38.78	10.0
+PD4	C3	OK	21.15	11.1	21.15	10.0
+PD4	D3	OK	55.05	45.0	55.05	10.0
+PD4	E3	OK	35.52	25.5	35.52	10.0
+PD4	F3	conc below target	0.0	0	10.0	0.0
+PD4	G3	OK	23.71	13.7	23.71	10.0
+PD4	H3	conc below target	7.94	0	10.0	7.94
+PD4	A4	OK	51.77	41.8	51.77	10.0
+PD4	B4	OK	32.05	22.0	32.05	10.0
+PD4	C4	OK	32.03	22.0	32.03	10.0
+PD4	D4	conc below target	6.99	0	10.0	6.99
+PD4	E4	OK	32.12	22.1	32.12	10.0
+PD4	F4	OK	28.24	18.2	28.24	10.0
+PD4	G4	OK	41.76	31.8	41.76	10.0
+PD4	H4	transfer too small	13.65	0	10.0	13.65
+PD4	A5	OK	67.97	58.0	67.97	10.0
+PD4	B5	conc below target	0.0	0	10.0	0.0
+PD4	C5	OK	34.36	24.4	34.36	10.0
+PD4	D5	conc below target	9.52	0	10.0	9.52
+PD4	E5	transfer too small	11.84	0	10.0	11.84
+PD4	F5	OK	31.01	21.0	31.01	10.0
+PD4	G5	OK	79.39	69.4	79.39	10.0
+PD4	H5	OK	62.33	52.3	62.33	10.0
+PD4	A6	OK	32.99	23.0	32.99	10.0
+PD4	B6	OK	30.54	20.5	30.54	10.0
+PD4	C6	OK	34.76	24.8	34.76	10.0
+PD4	D6	conc below target	9.8	0	10.0	9.8
+PD4	E6	OK	35.83	25.8	35.83	10.0
+PD4	F6	conc below target	8.39	0	10.0	8.39
+PD4	G6	OK	35.26	25.3	35.26	10.0
+PD4	H6	conc below target	4.9	0	10.0	4.9
+PD4	A7	conc below target	0.0	0	10.0	0.0
+PD4	B7	OK	18.69	8.7	18.69	10.0
+PD4	C7	transfer too small	12.36	0	10.0	12.36
+PD4	D7	OK	42.72	32.7	42.72	10.0
+PD4	E7	OK	66.27	56.3	66.27	10.0
+PD4	F7	conc below target	0.0	0	10.0	0.0
+PD4	G7	OK	17.69	7.7	17.69	10.0
+PD4	H7	conc below target	0.84	0	10.0	0.84
+PD4	A8	OK	20.05	10.0	20.05	10.0
+PD4	B8	OK	65.93	55.9	65.93	10.0
+PD4	C8	conc below target	1.44	0	10.0	1.44
+PD4	D8	transfer too small	12.93	0	10.0	12.93
+PD4	E8	OK	49.0	39.0	49.0	10.0
+PD4	F8	OK	32.91	22.9	32.91	10.0
+PD4	G8	OK	60.84	50.8	60.84	10.0
+PD4	H8	conc below target	0.0	0	10.0	0.0
+PD4	A9	OK	48.1	38.1	48.1	10.0
+PD4	B9	conc below target	4.02	0	10.0	4.02
+PD4	C9	OK	23.16	13.2	23.16	10.0
+PD4	D9	OK	19.43	9.4	19.43	10.0
+PD4	E9	OK	20.76	10.8	20.76	10.0
+PD4	F9	OK	67.74	57.7	67.74	10.0
+PD4	G9	transfer too small	13.68	0	10.0	13.68
+PD4	H9	transfer too small	13.07	0	10.0	13.07
+PD4	A10	OK	46.84	36.8	46.84	10.0
+PD4	B10	conc below target	5.7	0	10.0	5.7
+PD4	C10	transfer too small	13.68	0	10.0	13.68
+PD4	D10	conc below target	6.33	0	10.0	6.33
+PD4	E10	conc below target	9.51	0	10.0	9.51
+PD4	F10	OK	47.39	37.4	47.39	10.0
+PD4	G10	OK	35.46	25.5	35.46	10.0
+PD4	H10	OK	26.42	16.4	26.42	10.0
+PD4	A11	conc below target	0.0	0	10.0	0.0
+PD4	B11	conc below target	0.34	0	10.0	0.34
+PD4	C11	OK	26.79	16.8	26.79	10.0
+PD4	D11	OK	47.07	37.1	47.07	10.0
+PD4	E11	OK	36.92	26.9	36.92	10.0
+PD4	F11	OK	97.47	87.5	97.47	10.0
+PD4	G11	OK	19.66	9.7	19.66	10.0
+PD4	H11	OK	63.66	53.7	63.66	10.0
+PD4	A12	conc below target	0.0	0	10.0	0.0
+PD4	B12	conc below target	5.44	0	10.0	5.44
+PD4	C12	OK	20.67	10.7	20.67	10.0
+PD4	D12	OK	37.73	27.7	37.73	10.0
+PD4	E12	transfer too small	14.83	0	10.0	14.83
+PD4	F12	OK	45.45	35.5	45.45	10.0
+PD4	G12	OK	51.13	41.1	51.13	10.0
+PD4	H12	conc below target	0.0	0	10.0	0.0
+PD5	A1	conc below target	0.0	0	10.0	0.0
+PD5	B1	transfer too small	10.12	0	10.0	10.12
+PD5	C1	conc below target	3.84	0	10.0	3.84
+PD5	D1	conc below target	0.0	0	10.0	0.0
+PD5	E1	conc below target	3.94	0	10.0	3.94
+PD5	F1	OK	20.13	10.1	20.13	10.0
+PD5	G1	conc below target	6.41	0	10.0	6.41
+PD5	H1	conc below target	5.67	0	10.0	5.67
+PD5	A2	conc below target	0.0	0	10.0	0.0
+PD5	B2	OK	23.04	13.0	23.04	10.0
+PD5	C2	conc below target	1.23	0	10.0	1.23
+PD5	D2	conc below target	0.01	0	10.0	0.01
+PD5	E2	conc below target	4.63	0	10.0	4.63
+PD5	F2	conc below target	0.92	0	10.0	0.92
+PD5	G2	conc below target	1.76	0	10.0	1.76
+PD5	H2	OK	18.66	8.7	18.66	10.0
+PD5	A3	conc below target	1.71	0	10.0	1.71
+PD5	B3	conc below target	0.0	0	10.0	0.0
+PD5	C3	conc below target	0.0	0	10.0	0.0
+PD5	D3	conc below target	0.0	0	10.0	0.0
+PD5	E3	conc below target	0.67	0	10.0	0.67
+PD5	F3	conc below target	8.16	0	10.0	8.16
+PD5	G3	transfer too small	14.47	0	10.0	14.47
+PD5	H3	conc below target	9.77	0	10.0	9.77
+PD5	A4	conc below target	8.01	0	10.0	8.01
+PD5	B4	conc below target	0.0	0	10.0	0.0
+PD5	C4	conc below target	0.09	0	10.0	0.09
+PD5	D4	conc below target	0.06	0	10.0	0.06
+PD5	E4	conc below target	5.95	0	10.0	5.95
+PD5	F4	conc below target	2.02	0	10.0	2.02
+PD5	G4	conc below target	0.82	0	10.0	0.82
+PD5	H4	conc below target	0.61	0	10.0	0.61
+PD5	A5	conc below target	0.28	0	10.0	0.28
+PD5	B5	conc below target	0.0	0	10.0	0.0
+PD5	C5	conc below target	0.0	0	10.0	0.0
+PD5	D5	conc below target	0.0	0	10.0	0.0
+PD5	E5	conc below target	6.69	0	10.0	6.69
+PD5	F5	conc below target	2.3	0	10.0	2.3
+PD5	G5	conc below target	6.78	0	10.0	6.78
+PD5	H5	OK	19.38	9.4	19.38	10.0
+PD5	A6	conc below target	0.0	0	10.0	0.0
+PD5	B6	conc below target	0.0	0	10.0	0.0
+PD5	C6	conc below target	0.0	0	10.0	0.0
+PD5	D6	conc below target	0.0	0	10.0	0.0
+PD5	E6	conc below target	4.09	0	10.0	4.09
+PD5	F6	conc below target	1.34	0	10.0	1.34
+PD5	G6	conc below target	3.52	0	10.0	3.52
+PD5	H6	OK	15.49	5.5	15.49	10.0
+PD5	A7	conc below target	0.0	0	10.0	0.0
+PD5	B7	conc below target	0.0	0	10.0	0.0
+PD5	C7	conc below target	0.0	0	10.0	0.0
+PD5	D7	conc below target	0.0	0	10.0	0.0
+PD5	E7	conc below target	0.51	0	10.0	0.51
+PD5	F7	conc below target	0.34	0	10.0	0.34
+PD5	G7	conc below target	0.0	0	10.0	0.0
+PD5	H7	conc below target	0.0	0	10.0	0.0
+PD5	A8	conc below target	9.67	0	10.0	9.67
+PD5	B8	conc below target	0.27	0	10.0	0.27
+PD5	C8	conc below target	0.21	0	10.0	0.21
+PD5	D8	conc below target	0.0	0	10.0	0.0
+PD5	E8	conc below target	7.78	0	10.0	7.78
+PD5	F8	conc below target	2.06	0	10.0	2.06
+PD5	G8	conc below target	2.44	0	10.0	2.44
+PD5	H8	conc below target	0.0	0	10.0	0.0
+PD5	A9	conc below target	0.0	0	10.0	0.0
+PD5	B9	conc below target	0.0	0	10.0	0.0
+PD5	C9	conc below target	1.14	0	10.0	1.14
+PD5	D9	conc below target	0.81	0	10.0	0.81
+PD5	E9	conc below target	0.0	0	10.0	0.0
+PD5	F9	conc below target	0.46	0	10.0	0.46
+PD5	G9	conc below target	0.71	0	10.0	0.71
+PD5	H9	conc below target	7.48	0	10.0	7.48
+PD5	A10	conc below target	6.94	0	10.0	6.94
+PD5	B10	conc below target	0.0	0	10.0	0.0
+PD5	C10	conc below target	0.0	0	10.0	0.0
+PD5	D10	conc below target	0.0	0	10.0	0.0
+PD5	E10	OK	20.17	10.2	20.17	10.0
+PD5	F10	conc below target	2.46	0	10.0	2.46
+PD5	G10	conc below target	0.21	0	10.0	0.21
+PD5	H10	conc below target	0.0	0	10.0	0.0
+PD5	A11	conc below target	0.0	0	10.0	0.0
+PD5	B11	conc below target	0.0	0	10.0	0.0
+PD5	C11	conc below target	0.04	0	10.0	0.04
+PD5	D11	conc below target	0.0	0	10.0	0.0
+PD5	E11	conc below target	2.49	0	10.0	2.49
+PD5	F11	conc below target	0.0	0	10.0	0.0
+PD5	G11	conc below target	0.7	0	10.0	0.7
+PD5	H11	transfer too small	11.43	0	10.0	11.43
+PD5	A12	transfer too small	13.63	0	10.0	13.63
+PD5	B12	conc below target	0.0	0	10.0	0.0
+PD5	C12	conc below target	0.0	0	10.0	0.0
+PD5	D12	transfer too small	13.06	0	10.0	13.06
+PD5	E12	conc below target	4.98	0	10.0	4.98
+PD5	F12	conc below target	0.0	0	10.0	0.0
+PD5	G12	conc below target	2.34	0	10.0	2.34
+PD5	H12	OK	49.6	39.6	49.6	10.0
+PD7	A1	OK	26.56	16.6	26.56	10.0
+PD7	B1	OK	58.55	48.5	58.55	10.0
+PD7	C1	conc below target	9.77	0	10.0	9.77
+PD7	D1	OK	49.99	40.0	49.99	10.0
+PD7	E1	OK	18.08	8.1	18.08	10.0
+PD7	F1	OK	49.33	39.3	49.33	10.0
+PD7	G1	OK	71.28	61.3	71.28	10.0
+PD7	H1	OK	20.93	10.9	20.93	10.0
+PD7	A2	OK	60.14	50.1	60.14	10.0
+PD7	B2	OK	16.26	6.3	16.26	10.0
+PD7	C2	conc below target	0.1	0	10.0	0.1
+PD7	D2	conc below target	8.14	0	10.0	8.14
+PD7	E2	conc below target	6.83	0	10.0	6.83
+PD7	F2	OK	15.56	5.6	15.56	10.0
+PD7	G2	conc below target	2.06	0	10.0	2.06
+PD7	H2	conc below target	1.93	0	10.0	1.93
+PD7	A3	transfer too small	11.33	0	10.0	11.33
+PD7	B3	conc below target	8.05	0	10.0	8.05
+PD7	C3	OK	16.34	6.3	16.34	10.0
+PD7	D3	OK	16.45	6.4	16.45	10.0
+PD7	E3	OK	50.78	40.8	50.78	10.0
+PD7	F3	OK	27.55	17.5	27.55	10.0
+PD7	G3	OK	15.28	5.3	15.28	10.0
+PD7	H3	conc below target	0.17	0	10.0	0.17
+PD7	A4	conc below target	3.25	0	10.0	3.25
+PD7	B4	conc below target	0.0	0	10.0	0.0
+PD7	C4	conc below target	0.23	0	10.0	0.23
+PD7	D4	OK	16.74	6.7	16.74	10.0
+PD7	E4	conc below target	1.64	0	10.0	1.64
+PD7	F4	OK	29.08	19.1	29.08	10.0
+PD7	G4	OK	34.58	24.6	34.58	10.0
+PD7	H4	conc below target	0.87	0	10.0	0.87
+PD7	A5	OK	36.79	26.8	36.79	10.0
+PD7	B5	OK	56.56	46.6	56.56	10.0
+PD7	C5	conc below target	2.73	0	10.0	2.73
+PD7	D5	OK	25.18	15.2	25.18	10.0
+PD7	E5	conc below target	9.71	0	10.0	9.71
+PD7	F5	conc below target	0.92	0	10.0	0.92
+PD7	G5	transfer too small	13.52	0	10.0	13.52
+PD7	H5	conc below target	0.66	0	10.0	0.66
+PD7	A6	conc below target	8.74	0	10.0	8.74
+PD7	B6	OK	15.04	5.0	15.04	10.0
+PD7	C6	conc below target	2.61	0	10.0	2.61
+PD7	D6	conc below target	1.12	0	10.0	1.12
+PD7	E6	conc below target	9.26	0	10.0	9.26
+PD7	F6	OK	40.64	30.6	40.64	10.0
+PD7	G6	OK	17.75	7.8	17.75	10.0
+PD7	H6	conc below target	7.45	0	10.0	7.45
+PD7	A7	OK	33.5	23.5	33.5	10.0
+PD7	B7	OK	25.57	15.6	25.57	10.0
+PD7	C7	OK	22.26	12.3	22.26	10.0
+PD7	D7	conc below target	5.47	0	10.0	5.47
+PD7	E7	conc below target	1.44	0	10.0	1.44
+PD7	F7	conc below target	9.95	0	10.0	9.95
+PD7	G7	conc below target	3.57	0	10.0	3.57
+PD7	H7	conc below target	2.49	0	10.0	2.49
+PD7	A8	conc below target	2.07	0	10.0	2.07
+PD7	B8	conc below target	3.04	0	10.0	3.04
+PD7	C8	conc below target	6.5	0	10.0	6.5
+PD7	D8	conc below target	9.54	0	10.0	9.54
+PD7	E8	conc below target	1.05	0	10.0	1.05
+PD7	F8	conc below target	9.67	0	10.0	9.67
+PD7	G8	conc below target	7.2	0	10.0	7.2
+PD7	H8	conc below target	1.43	0	10.0	1.43
+PD7	A9	conc below target	0.29	0	10.0	0.29
+PD7	B9	conc below target	4.74	0	10.0	4.74
+PD7	C9	conc below target	0.53	0	10.0	0.53
+PD7	D9	conc below target	6.46	0	10.0	6.46
+PD7	E9	conc below target	4.12	0	10.0	4.12
+PD7	F9	conc below target	0.32	0	10.0	0.32
+PD7	G9	conc below target	0.0	0	10.0	0.0
+PD7	H9	conc below target	1.26	0	10.0	1.26
+PD7	A10	conc below target	4.69	0	10.0	4.69
+PD7	B10	conc below target	0.76	0	10.0	0.76
+PD7	C10	conc below target	0.71	0	10.0	0.71
+PD7	D10	transfer too small	11.14	0	10.0	11.14
+PD7	E10	conc below target	1.08	0	10.0	1.08
+PD7	F10	conc below target	9.88	0	10.0	9.88
+PD7	G10	conc below target	0.0	0	10.0	0.0
+PD7	H10	conc below target	1.99	0	10.0	1.99
+PD7	A11	conc below target	0.57	0	10.0	0.57
+PD7	B11	conc below target	7.42	0	10.0	7.42
+PD7	C11	OK	15.04	5.0	15.04	10.0
+PD7	D11	conc below target	2.68	0	10.0	2.68
+PD7	E11	OK	27.11	17.1	27.11	10.0
+PD7	F11	OK	41.93	31.9	41.93	10.0
+PD7	G11	conc below target	0.11	0	10.0	0.11
+PD7	H11	conc below target	1.93	0	10.0	1.93
+PD7	A12	conc below target	2.37	0	10.0	2.37
+PD7	B12	conc below target	0.23	0	10.0	0.23
+PD7	C12	OK	21.72	11.7	21.72	10.0
+PD7	D12	OK	29.29	19.3	29.29	10.0
+PD7	E12	conc below target	7.97	0	10.0	7.97
+PD7	F12	conc below target	5.49	0	10.0	5.49
+PD7	G12	conc below target	0.33	0	10.0	0.33
+PD7	H12	conc below target	2.93	0	10.0	2.93
+PD8	A1	OK	88.72	78.7	88.72	10.0
+PD8	B1	OK	35.33	25.3	35.33	10.0
+PD8	C1	OK	93.59	83.6	93.59	10.0
+PD8	D1	transfer too small	13.78	0	10.0	13.78
+PD8	E1	conc below target	0.0	0	10.0	0.0
+PD8	F1	OK	147.95	137.9	147.95	10.0
+PD8	G1	OK	83.09	73.1	83.09	10.0
+PD8	H1	transfer too large	205.7	180	190.0	10.83
+PD8	A2	OK	111.3	101.3	111.3	10.0
+PD8	B2	OK	124.08	114.1	124.08	10.0
+PD8	C2	OK	63.86	53.9	63.86	10.0
+PD8	D2	OK	120.36	110.4	120.36	10.0
+PD8	E2	OK	54.8	44.8	54.8	10.0
+PD8	F2	OK	26.61	16.6	26.61	10.0
+PD8	G2	OK	87.0	77.0	87.0	10.0
+PD8	H2	OK	72.21	62.2	72.21	10.0
+PD8	A3	conc below target	0.29	0	10.0	0.29
+PD8	B3	conc below target	0.0	0	10.0	0.0
+PD8	C3	conc below target	0.32	0	10.0	0.32
+PD8	D3	conc below target	0.0	0	10.0	0.0
+PD8	E3	conc below target	0.0	0	10.0	0.0
+PD8	F3	conc below target	1.49	0	10.0	1.49
+PD8	G3	transfer too small	10.77	0	10.0	10.77
+PD8	H3	conc below target	0.26	0	10.0	0.26
+PD8	A4	conc below target	1.23	0	10.0	1.23
+PD8	B4	conc below target	8.77	0	10.0	8.77
+PD8	C4	conc below target	0.0	0	10.0	0.0
+PD8	D4	conc below target	3.63	0	10.0	3.63
+PD8	E4	conc below target	2.26	0	10.0	2.26
+PD8	F4	conc below target	1.66	0	10.0	1.66
+PD8	G4	conc below target	1.94	0	10.0	1.94
+PD8	H4	conc below target	0.0	0	10.0	0.0
+PD8	A5	conc below target	2.65	0	10.0	2.65
+PD8	B5	conc below target	0.0	0	10.0	0.0
+PD8	C5	conc below target	6.58	0	10.0	6.58
+PD8	D5	OK	69.27	59.3	69.27	10.0
+PD8	E5	conc below target	0.5	0	10.0	0.5
+PD8	F5	conc below target	3.19	0	10.0	3.19
+PD8	G5	conc below target	0.77	0	10.0	0.77
+PD8	H5	conc below target	1.7	0	10.0	1.7
+PD8	A6	conc below target	3.2	0	10.0	3.2
+PD8	B6	conc below target	6.88	0	10.0	6.88
+PD8	C6	OK	32.88	22.9	32.88	10.0
+PD8	D6	conc below target	1.46	0	10.0	1.46
+PD8	E6	conc below target	0.0	0	10.0	0.0
+PD8	F6	transfer too small	11.86	0	10.0	11.86
+PD8	G6	conc below target	2.22	0	10.0	2.22
+PD8	H6	conc below target	0.0	0	10.0	0.0
+PD8	A7	OK	51.57	41.6	51.57	10.0
+PD8	B7	OK	104.43	94.4	104.43	10.0
+PD8	C7	OK	49.76	39.8	49.76	10.0
+PD8	D7	OK	119.68	109.7	119.68	10.0
+PD8	E7	OK	107.96	98.0	107.96	10.0
+PD8	F7	OK	49.69	39.7	49.69	10.0
+PD8	G7	OK	37.4	27.4	37.4	10.0
+PD8	H7	conc below target	2.0	0	10.0	2.0
+PD8	A8	OK	52.57	42.6	52.57	10.0
+PD8	B8	OK	117.5	107.5	117.5	10.0
+PD8	C8	OK	67.86	57.9	67.86	10.0
+PD8	D8	OK	83.18	73.2	83.18	10.0
+PD8	E8	OK	82.16	72.2	82.16	10.0
+PD8	F8	OK	132.22	122.2	132.22	10.0
+PD8	G8	OK	45.57	35.6	45.57	10.0
+PD8	H8	conc below target	0.0	0	10.0	0.0
+PD8	A9	OK	106.94	96.9	106.94	10.0
+PD8	B9	OK	20.75	10.8	20.75	10.0
+PD8	C9	OK	43.84	33.8	43.84	10.0
+PD8	D9	OK	125.4	115.4	125.4	10.0
+PD8	E9	OK	79.29	69.3	79.29	10.0
+PD8	F9	OK	30.64	20.6	30.64	10.0
+PD8	G9	OK	61.31	51.3	61.31	10.0
+PD8	H9	conc below target	3.33	0	10.0	3.33
+PD8	A10	OK	41.86	31.9	41.86	10.0
+PD8	B10	OK	60.47	50.5	60.47	10.0
+PD8	C10	OK	106.07	96.1	106.07	10.0
+PD8	D10	OK	62.93	52.9	62.93	10.0
+PD8	E10	conc below target	8.22	0	10.0	8.22
+PD8	F10	OK	83.89	73.9	83.89	10.0
+PD8	G10	conc below target	0.92	0	10.0	0.92
+PD8	H10	conc below target	0.0	0	10.0	0.0
+PD8	A11	OK	100.98	91.0	100.98	10.0
+PD8	B11	conc below target	6.89	0	10.0	6.89
+PD8	C11	conc below target	1.07	0	10.0	1.07
+PD8	D11	OK	102.06	92.1	102.06	10.0
+PD8	E11	OK	89.43	79.4	89.43	10.0
+PD8	F11	conc below target	0.0	0	10.0	0.0
+PD8	G11	conc below target	0.57	0	10.0	0.57
+PD8	H11	conc below target	0.08	0	10.0	0.08
+PD8	A12	transfer too small	11.5	0	10.0	11.5
+PD8	B12	OK	175.84	165.8	175.84	10.0
+PD8	C12	conc below target	8.73	0	10.0	8.73
+PD8	D12	conc below target	3.41	0	10.0	3.41
+PD8	E12	conc below target	0.92	0	10.0	0.92
+PD8	F12	conc below target	7.39	0	10.0	7.39
+PD8	G12	conc below target	0.0	0	10.0	0.0
+PD8	H12	conc below target	9.56	0	10.0	9.56
+PD9	A1	conc below target	0.0	0	10.0	0.0
+PD9	B1	conc below target	0.0	0	10.0	0.0
+PD9	C1	OK	36.86	26.9	36.86	10.0
+PD9	D1	OK	61.64	51.6	61.64	10.0
+PD9	E1	conc below target	7.25	0	10.0	7.25
+PD9	F1	OK	62.46	52.5	62.46	10.0
+PD9	G1	conc below target	7.74	0	10.0	7.74
+PD9	H1	conc below target	0.0	0	10.0	0.0
+PD9	A2	conc below target	0.0	0	10.0	0.0
+PD9	B2	conc below target	2.0	0	10.0	2.0
+PD9	C2	conc below target	0.0	0	10.0	0.0
+PD9	D2	OK	24.57	14.6	24.57	10.0
+PD9	E2	transfer too small	13.46	0	10.0	13.46
+PD9	F2	OK	29.86	19.9	29.86	10.0
+PD9	G2	OK	21.25	11.2	21.25	10.0
+PD9	H2	OK	40.43	30.4	40.43	10.0
+PD9	A3	OK	31.09	21.1	31.09	10.0
+PD9	B3	OK	26.32	16.3	26.32	10.0
+PD9	C3	OK	18.68	8.7	18.68	10.0
+PD9	D3	OK	34.06	24.1	34.06	10.0
+PD9	E3	OK	55.75	45.8	55.75	10.0
+PD9	F3	conc below target	0.25	0	10.0	0.25
+PD9	G3	conc below target	0.0	0	10.0	0.0
+PD9	H3	OK	86.41	76.4	86.41	10.0
+PD9	A4	conc below target	0.0	0	10.0	0.0
+PD9	B4	OK	18.5	8.5	18.5	10.0
+PD9	C4	conc below target	0.35	0	10.0	0.35
+PD9	D4	conc below target	3.58	0	10.0	3.58
+PD9	E4	conc below target	2.71	0	10.0	2.71
+PD9	F4	OK	34.19	24.2	34.19	10.0
+PD9	G4	OK	41.88	31.9	41.88	10.0
+PD9	H4	OK	39.45	29.5	39.45	10.0
+PD9	A5	conc below target	3.93	0	10.0	3.93
+PD9	B5	conc below target	2.44	0	10.0	2.44
+PD9	C5	conc below target	0.0	0	10.0	0.0
+PD9	D5	OK	48.55	38.5	48.55	10.0
+PD9	E5	OK	44.95	35.0	44.95	10.0
+PD9	F5	conc below target	6.0	0	10.0	6.0
+PD9	G5	OK	27.62	17.6	27.62	10.0
+PD9	H5	conc below target	2.34	0	10.0	2.34
+PD9	A6	OK	36.1	26.1	36.1	10.0
+PD9	B6	conc below target	1.31	0	10.0	1.31
+PD9	C6	conc below target	0.0	0	10.0	0.0
+PD9	D6	conc below target	0.0	0	10.0	0.0
+PD9	E6	conc below target	2.96	0	10.0	2.96
+PD9	F6	conc below target	2.66	0	10.0	2.66
+PD9	G6	conc below target	7.53	0	10.0	7.53
+PD9	H6	conc below target	6.59	0	10.0	6.59
+PD9	A7	conc below target	0.62	0	10.0	0.62
+PD9	B7	conc below target	5.19	0	10.0	5.19
+PD9	C7	OK	29.34	19.3	29.34	10.0
+PD9	D7	conc below target	7.7	0	10.0	7.7
+PD9	E7	conc below target	0.32	0	10.0	0.32
+PD9	F7	conc below target	1.68	0	10.0	1.68
+PD9	G7	OK	30.55	20.6	30.55	10.0
+PD9	H7	conc below target	3.32	0	10.0	3.32
+PD9	A8	conc below target	2.82	0	10.0	2.82
+PD9	B8	OK	33.83	23.8	33.83	10.0
+PD9	C8	conc below target	0.0	0	10.0	0.0
+PD9	D8	conc below target	4.03	0	10.0	4.03
+PD9	E8	conc below target	0.0	0	10.0	0.0
+PD9	F8	OK	32.45	22.5	32.45	10.0
+PD9	G8	OK	16.58	6.6	16.58	10.0
+PD9	H8	OK	24.35	14.4	24.35	10.0
+PD9	A9	conc below target	0.0	0	10.0	0.0
+PD9	B9	conc below target	9.42	0	10.0	9.42
+PD9	C9	OK	15.88	5.9	15.88	10.0
+PD9	D9	conc below target	0.0	0	10.0	0.0
+PD9	E9	conc below target	0.0	0	10.0	0.0
+PD9	F9	conc below target	1.32	0	10.0	1.32
+PD9	G9	conc below target	4.68	0	10.0	4.68
+PD9	H9	conc below target	3.7	0	10.0	3.7
+PD9	A10	conc below target	0.06	0	10.0	0.06
+PD9	B10	OK	26.2	16.2	26.2	10.0
+PD9	C10	conc below target	0.92	0	10.0	0.92
+PD9	D10	OK	41.7	31.7	41.7	10.0
+PD9	E10	conc below target	0.0	0	10.0	0.0
+PD9	F10	conc below target	1.73	0	10.0	1.73
+PD9	G10	conc below target	0.54	0	10.0	0.54
+PD9	H10	OK	27.25	17.2	27.25	10.0
+PD9	A11	conc below target	0.0	0	10.0	0.0
+PD9	B11	transfer too small	14.71	0	10.0	14.71
+PD9	C11	conc below target	0.94	0	10.0	0.94
+PD9	D11	conc below target	0.33	0	10.0	0.33
+PD9	E11	transfer too small	10.74	0	10.0	10.74
+PD9	F11	conc below target	0.0	0	10.0	0.0
+PD9	G11	conc below target	0.0	0	10.0	0.0
+PD9	H11	OK	32.19	22.2	32.19	10.0
+PD9	A12	conc below target	0.0	0	10.0	0.0
+PD9	B12	conc below target	0.0	0	10.0	0.0
+PD9	C12	conc below target	0.0	0	10.0	0.0
+PD9	D12	OK	18.43	8.4	18.43	10.0
+PD9	E12	conc below target	0.5	0	10.0	0.5
+PD9	F12	conc below target	0.0	0	10.0	0.0
+PD9	G12	conc below target	0.0	0	10.0	0.0
+PD9	H12	conc below target	2.51	0	10.0	2.51
